@@ -4,7 +4,7 @@
 **IDUNA** viene de **Iðunn (Idun)**, diosa nórdica de la **juventud, la renovación y la vitalidad**, guardiana de las manzanas doradas de la eterna juventud. Conecta con: rejuvenecimiento, cuidado/custodia, renovación de la piel. (Decisión: el símbolo del logo es abstracto, NO literal de manzana.)
 
 ## Propósito
-Democratizar el cuidado profesional de la piel, llevando el conocimiento de la cabina al hogar — con seguridad, ciencia y guía real, no por moda.
+Democratizar el cuidado profesional de la piel, llevando el conocimiento de la cabina al hogar — con seguridad, criterio y guía real, no por moda.
 
 ## Propuesta de valor
 No vende productos ni aparatos: vende **resultados guiados con seguridad**.
@@ -28,7 +28,7 @@ IDUNA se posiciona como **la voz sensata y educada** en un mercado ruidoso.
 
 ### Ética de comunicación
 - **Cero diagnósticos médicos.** Si algo es grave: "consulta a tu especialista".
-- **Promesas reales.** Prohibido "resultados mágicos en 24h". Procesos, constancia, ciencia.
+- **Promesas reales.** Prohibido "resultados mágicos en 24h". Hablamos de procesos, constancia y fundamento real (sin lenguaje médico/clínico).
 - **Consumo consciente.** Si un producto no es para ti, te lo decimos.
 - **Independencia profesional.** La tienda brilla por su propia calidad, no como anexo de la cabina.
 
@@ -49,8 +49,11 @@ Figura de autoridad que irradia paz y sabiduría, pero no teme decir la verdad p
 
 > Ejemplo: en lugar de "compra este aparato porque está de moda" → "sé que lo has visto en todos lados, pero antes de usarlo tu piel necesita fortalecer su barrera. Hagámoslo bien: primero esto, luego la tecnología."
 
-## Propuesta de valor (frase)
-> "Resultados profesionales, cuidado consciente: la ciencia del skincare en la calidez de tu hogar."
+## Propuesta de valor (frase) — versión Meta-safe
+> Slogan maestro: **"Eleva tu cuidado en casa."**
+> Descriptor: *"Aparatología facial y rutinas guiadas, con quien te dice la verdad."*
+
+> Nota: reemplaza la frase anterior ("...la ciencia del skincare... resultados profesionales"), que usaba términos que Meta puede penalizar y rozan claim médico. Ver la guía de redacción do/don't en `identidad-verbal.md`.
 
 ## Sensaciones que debe experimentar el cliente
 1. **Seguridad:** "por fin alguien me explica cómo se usa de verdad".
