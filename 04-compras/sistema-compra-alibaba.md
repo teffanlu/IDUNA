@@ -66,6 +66,13 @@ ROJO: precio muy por debajo del resto, sin Trade Assurance, piden pago fuera de 
 13. Are you the **manufacturer or a trading company**?
 14. **DOA policy:** free replacement + reshipping next order, or refund via Trade Assurance?
 
+### Flujo de pago seguro (2 cuentas Alibaba)
+- **Cuenta A** = investigar/preguntar · **Cuenta B** = pagar (cuando el proveedor ya es seguro).
+- **Riesgo:** Trade Assurance y el historial del chat van **por cuenta**. Si negocias en A y pagas en B, el pedido de B no tiene el acuerdo registrado.
+- **Regla:** acuerdo final + pedido + pago = **misma cuenta (la de pagar)**. Antes de pagar, **reconfirmar los términos en el chat de la cuenta B** y meter las specs en el **contrato del pedido Trade Assurance** (no solo en el chat).
+- **Confirmación de pedido (recap):** antes de pagar, enviar un resumen de lo acordado (producto, cantidad, precio, empaque 1-por-bolsa, envío incluido) y pedir al proveedor que responda **"aprobado/correcto"** por escrito.
+- Pago **SIEMPRE dentro de Alibaba** (Trade Assurance). Si piden pagar por fuera (Western Union/cripto/transferencia directa) = 🚩 estafa.
+
 ---
 
 ## 5. Ficha por proveedor (llenar y enviar para evaluar)
