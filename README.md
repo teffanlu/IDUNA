@@ -29,6 +29,7 @@ Este repositorio es la **fuente de verdad** del proyecto. Todos los chats de tra
 - `identidad-de-marca.md` — Propósito, propuesta de valor, pilares, personalidad, tono, "la Mentora Honesta", el enemigo de marca.
 - `arquitectura-de-marca.md` — IDUNA paraguas + SKIN SYSTEM + registro Clase 10 (SAPI).
 - `segmentos-3-fases.md` — Desarrollo / Prevención / Madurez.
+- `identidad-verbal.md` — Tagline ("Eleva tu cuidado en casa"), guía de redacción do/don't (Meta-safe) y mensajes clave.
 
 ### `02-identidad-visual/`
 - `variantes/` — Isotipo en versiones oficiales (charcoal, sobre crema, blanco/terracota, oro/charcoal, compacto, favicon).
@@ -43,6 +44,9 @@ Este repositorio es la **fuente de verdad** del proyecto. Todos los chats de tra
 - `analisis-competencia.md` — Competidores locales y posicionamiento.
 - `calendario-lanzamiento.md` — Ruta de fechas hacia el lanzamiento Q4.
 - `monetizacion.md` — Kits, recompra, afiliación con la cabina.
+- `canales-y-distribucion.md` — Canales de venta (IG, web) y distribución nacional (MRW/Zoom/Tealca/Liberty, última milla).
+- `foda.md` — Análisis FODA consolidado.
+- `kpis-y-metricas.md` — Marco de medición (qué se mide y con qué frecuencia).
 
 ### `04-compras/`
 - `sistema-compra-alibaba.md` — Búsqueda, evaluación y costeo de proveedores.
@@ -55,8 +59,9 @@ Este repositorio es la **fuente de verdad** del proyecto. Todos los chats de tra
 - **Registro:** SAPI, Clase 10 (aparatos)
 - **Alcance:** Maracaibo → nacional (Venezuela) → futuro internacional
 - **Posicionamiento:** "Marca Autoridad Accesible" / "La Mentora Honesta"
+- **Slogan maestro:** "Eleva tu cuidado en casa." (bandera interna: "El puente entre la cabina y tu casa")
 - **Objetivo de lanzamiento:** temporada navideña Q4 2026
 
 ## Pendientes de desarrollar
-- `01-estrategia/identidad-verbal.md` — Tagline definitivo, voz, naming de líneas (plantilla creada).
+- `01-estrategia/identidad-verbal.md` — Falta cerrar el naming de líneas/kits (tagline, voz y guía de redacción ya definidos).
 - `05-contenido/` — Estrategia de contenido y plan de Fase 0 (por crear).
