@@ -14,12 +14,17 @@
 
 | Producto | Búsqueda en inglés | Rol | Prioridad |
 |---|---|---|---|
-| Gua Sha acero | `stainless steel gua sha 304` | Entrada / imán | Alta |
-| Cryo Sticks acero | `cryo facial tools stainless steel` / `ice globes` | Entrada / imán | Alta |
-| Microcorriente | `microcurrent face device` / `EMS facial device` | HÉROE de margen | Alta |
-| Varita facial multifunción | `multifunction facial wand EMS` | Héroe alternativo | Media (cotizar y comparar) |
-| Gel conductor | `conductive gel microcurrent` | Apoyo (venta cruzada) | Alta |
-| Máscara LED | `LED face mask silicone` | Premium | Fase 2 (solo mirar precios) |
+| Gua Sha acero | `stainless steel gua sha 304` | Entrada / imán | Alta (Easter ✓) |
+| **Aparato galvánico/iónico** | `ion facial device hot cold LED` / `galvanic facial device iontophoresis` | **HÉROE de margen** | Alta (Xiazhifeng/Nove) |
+| Cintillo de felpa | `spa headband coral fleece` | Accesorio (AOV) | Alta |
+| Espátula de silicona | `silicone face mask applicator spatula` | Accesorio (AOV) | Alta |
+| Muñequera microfibra | `microfiber wrist wash band spa` | Accesorio (opc.) | Media |
+| Espátula ultrasónica | `ultrasonic skin scrubber spatula` | Fast-follow | Media (cotizar) |
+| Cryo Sticks acero | `cryo facial tools stainless steel` / `ice globes` | Entrada | Fase 2 |
+| Máscara LED | `LED face mask silicone` | Premium | Fase 2 (solo precios) |
+| Gel conductor | NO Alibaba → gel de aloe de marca, **ruta USA** | Apoyo | ver `sourcing-skincare-usa.md` |
+
+> **Nota:** el héroe es **galvánico/iónico (ION+/ION−)**, NO microcorriente/EMS. Trampa frecuente: que vendan un *masajeador vibratorio con calor* rotulado como "ion/microcurrent". Exigir que tenga modos **ION+/ION−** reales y que requiera gel conductor.
 
 ### Empaque (consolidar en el mismo envío)
 | Item | Búsqueda | Nota |
@@ -52,6 +57,14 @@ ROJO: precio muy por debajo del resto, sin Trade Assurance, piden pago fuera de 
 6. Production + shipping time?
 7. Do you support OEM/logo? Cost?
 8. Warranty on defective units?
+
+### Extra para aparatos electrónicos (galvánico)
+9. Does it have **ION+ / ION−** (iontophoresis)? LED colors and **wavelengths (nm)**? Heating/cooling **°C**? Battery **mAh**?
+10. Send **CE and RoHS certificate PDFs showing the model number**, and the **Battery UN38.3 test report**.
+11. Can the **box/device be NEUTRAL** (without the supplier's brand) so I can sell under my own brand?
+12. Send a **video of the device operating** showing the ION function and LED (confirma que es galvánico real, no solo vibración).
+13. Are you the **manufacturer or a trading company**?
+14. **DOA policy:** free replacement + reshipping next order, or refund via Trade Assurance?
 
 ---
 

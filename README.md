@@ -49,8 +49,9 @@ Este repositorio es la **fuente de verdad** del proyecto. Todos los chats de tra
 - `kpis-y-metricas.md` — Marco de medición (qué se mide y con qué frecuencia).
 
 ### `04-compras/`
-- `sistema-compra-alibaba.md` — Búsqueda, evaluación y costeo de proveedores.
-- `estado-proveedores.md` — Estado de gua sha, microcorriente, gel, etc.
+- `sistema-compra-alibaba.md` — Búsqueda, evaluación y costeo de proveedores (lista de búsqueda, filtros, preguntas, costo de aterrizaje).
+- `estado-proveedores.md` — Estado por producto (gua sha, aparato galvánico, gel, cryo, empaque, micro-accesorios), decisiones, cantidades y **fecha tope de pedido**.
+- `sourcing-skincare-usa.md` — Ruta USA (skincare resellado + gel de aloe): plataformas, carrito, reglas de pago y recompensas.
 
 ---
 
