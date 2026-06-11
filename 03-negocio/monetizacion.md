@@ -22,8 +22,8 @@ Recomendar servicios del centro estético de la madre para casos que requieran a
 
 ## Qué SÍ vende la marca
 - Aparatología con propósito (microcorriente, LED, radiofrecuencia portátil, limpieza ultrasónica) segura para casa.
-- Skincare de respaldo (geles conductores, sérums, protectores solares, activos de grado clínico).
-- Kits de solución real (manchas, acné, envejecimiento) con componente educativo.
+- Skincare de respaldo (geles conductores, sérums, protectores solares, activos de calidad de marcas reconocidas).
+- Kits de solución real (oleosidad, líneas de expresión, opacidad/manchas) con componente educativo.
 - Herramientas de mantenimiento (vinchas, paños, estuches).
 
 ## Qué NO vende la marca
@@ -34,7 +34,7 @@ Recomendar servicios del centro estético de la madre para casos que requieran a
 
 ## Filtro de decisión (antes de añadir un producto)
 1. ¿Es seguro para uso en casa sin arruinar la piel?
-2. ¿Es educable? (¿se puede hacer manual/video de su ciencia y uso?)
+2. ¿Es educable? (¿se puede hacer manual/video de su funcionamiento y uso?)
 3. ¿Es complementario? (¿potencia lo que ya se vende o lo que hace la cabina?)
 
 ## Arquitectura financiera (resumen)
