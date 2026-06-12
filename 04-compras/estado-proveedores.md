@@ -25,13 +25,15 @@ Producto pequeño/liviano aprox. +$7-10/u de costos. **Objetivo de margen del ap
 
 ## Estado por producto
 
-### 1. Gua sha — CASI CERRADO
+### 1. Gua sha — CERRADO (cotizado, listo para ordenar)
 - Proveedor: **Shenzhen Easter Technology Co., Ltd.** (13 años, Verified, Trade Assurance, 4.9/5 con 600 reseñas). Ya compró antes y llegó bien al casillero. Acero 304 + test report.
-- Precio: **$2.5/u a 30-50 uds** (forma corazón). Cada forma tiene precio distinto. Producción ~15 días.
-- **Decisión:** lote 1 = **una sola forma (corazón), un tamaño** (versátil, fácil de enseñar y de empacar). Variedad de formas → Fase 2 guiada por demanda.
-- **Bolsas:** cada gua sha trae **white bag gratis** (solo anti-rayón en tránsito). El **cloth bag de tela ($0.40) es opcional** → mejor declinarlo (no es protección, es pouch; la protección ya es gratis).
-- OEM logo: MOQ 500 → NO aplica al lote 1.
-- PENDIENTE: confirmar tamaño/precio de la forma corazón a 50u · foto del cloth bag (o declinarlo) · preguntar si hace **cryo / ice globes en acero** (para Fase 2, consolidar proveedor).
+- **Forma corazón, tamaño estándar 80×50×5mm** (confirmado, le sirve). Una sola forma/tamaño para el lote 1.
+- **COTIZACIÓN (junio 2026):** 50 uds × $2.5 = $125 + **$8 envío al casillero China** = **$133 total** → **$2.66/u puesto en casillero China** (antes de flete marítimo + aduana). Aterrizado en Maracaibo ≈ $3-4/u (CBM mínimo).
+- **Tiempos:** producción **7 días** + envío al casillero **3 días** = ~**10 días** al casillero (más rápido de lo estimado).
+- **Empaque anti-rayón:** **1 herramienta por bolsa (white bag gratis)** — confirmado por ellos (no aceptan 2 por bolsa).
+- OEM logo: MOQ 500 → NO aplica al lote 1 (va genérico + sticker/pouch propios).
+- **Próximo paso:** al pasar a la cuenta de pago, hacer **recap de confirmación** ("approved") + meter términos en el contrato Trade Assurance. NO pagar/enviar solo: consolidar con aparato + empaque en el mismo envío.
+- PENDIENTE menor: recibir fotos · preguntar si hace **cryo/ice globes en acero** (Fase 2).
 
 ### 2. Aparato héroe — GALVÁNICO (Camino B). Candidatos: Xiazhifeng vs Nove
 **Decisión:** el héroe del lote 1 es un **aparato galvánico/iónico multifunción** (ION+/ION−, frío/calor, LED), **NO un EMS/microcorriente**. Reposicionado honesto: absorción/glow/poros/calma (no "lifting"). EMS premium → Fase 2.
@@ -42,13 +44,22 @@ Producto pequeño/liviano aprox. +$7-10/u de costos. **Objetivo de margen del ap
 |---|---|---|
 | Tienda | Shenzhen Nove Technology | Shenzhen Xiazhifeng Electronic (esongsun.m.en.alibaba.com) |
 | Años / Verified / TA | 9 / sí / sí (4.9, 2.736) | 9 / sí / sí (4.6, 774) |
-| Precio/u | ~$22 | **$15.50** ✅ |
-| MOQ | 1 | 10 |
-| OEM/logo | desde MOQ 50 | **MOQ 1** ✅ (logo desde el lote 1) |
-| Notas | NV-IH01 galvánico; paga-retiene 10% | **Mismo aparato que Nove, más barato** (más cerca de fábrica) |
+| Precio/u | ~$22 | **$15.3** ✅ (plano 12-15 uds) |
+| MOQ | 1 | 10 (con stock inmediato) |
+| OEM/logo | desde MOQ 50 | **MOQ 1** ✅ (grabado láser, costo no aclarado) |
+| Notas | NV-IH01 galvánico; paga-retiene 10% | **Mismo aparato, más barato; fabricante con stock** |
 
 - Aterrizado Xiazhifeng ~$23.50 → venta **$69-89 = margen 66-73%**.
-- **Mensajes enviados a Xiazhifeng** (esperando respuesta): precio a 12/15/50/100 · CBM/peso · specs reales (ION+/ION−, nm, °C, mAh) · **CE/RoHS PDF con modelo** · **Battery UN38.3** · modelo/marca · qué incluye + idioma manual · ¿requiere gel? · producción · DOA · **caja NEUTRA sin "PAKISS"** · foto/video del ION operando · ¿fabricante o trading?
+- **Specs (respuesta recibida):** ION+/ION−, calor 35-45°C, frío 12-15°C, LED rojo/azul/verde, vibración 8000 RPM. Batería **1000 mAh** (posible cifra inflada → verificar con UN38.3). 4 modos: G1 limpieza (calor+vibr, off 8min), G2 nutrición (calor+rojo+vibr, off 8min), G3 boost (frío+azul, off 3min), G4 (vibr+verde). Caja: gift box + dispositivo + manual + cable USB + **hard case**. Manual en inglés. Per unidad 17×8×5.3cm, 160g. Master 50u: 0.0422 CBM.
+- **🚩 GATES antes de pagar:**
+  - **Certificados:** IGNORARON CE/RoHS y **UN38.3** (batería de litio). Sin UN38.3 el consolidador marítimo puede **rechazar la carga**. Exigir + **verificar con la agencia (Global) si aceptan baterías por mar y qué docs piden**.
+  - **Trade Assurance NO confirmado** → innegociable; confirmar o no se paga.
+  - **Garantía:** dicen 3 años, manual dice 1 año → fijar en contrato TA.
+  - **DOA:** reemplazo solo con nueva orden; evadieron reembolso → negociar reembolso parcial vía TA.
+  - Pendiente: nº de modelo · costo logo láser + caja neutra · **envío TERRESTRE local al casillero** (cotizaron aéreo, no sirve) · ¿base/holder incluida? · ¿gel obligatorio?
+- **CBM:** 15 uds ≈ 0.012 CBM → muy por debajo del mínimo 0.15 → **obligatorio consolidar** con gua sha + accesorios + empaque.
+- **Claims a EVITAR** (baneo Meta + ética; además el aparato es galvánico, no EMS): "esteriliza hábitat bacteriano", "llega a la dermis", "destruye bacterias", "promueve colágeno", "activa células musculares".
+- **Regla de decisión:** si entregan UN38.3 + CE/RoHS + confirman TA → Xiazhifeng gana. Si siguen evadiendo certificados → ir a Nove (dijo tener CE+RoHS) o usar el $15.3 para negociar a Nove.
 - **Trampa a verificar:** que el ION sea real, no solo vibración + calor.
 - **Acción:** Xiazhifeng como principal o palanca para negociar a Nove. Cantidad: **12-15 uds** (10-13 vender + 2 colchón/demo).
 
