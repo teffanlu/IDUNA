@@ -61,17 +61,18 @@ Producto pequeño/liviano aprox. +$7-10/u de costos. **Objetivo de margen del ap
 - **Claims a EVITAR** (baneo Meta + ética; además el aparato es galvánico, no EMS): "esteriliza hábitat bacteriano", "llega a la dermis", "destruye bacterias", "promueve colágeno", "activa células musculares".
 - **Regla de decisión:** si entregan UN38.3 + CE/RoHS + confirman TA → Xiazhifeng gana. Si siguen evadiendo certificados → ir a Nove (dijo tener CE+RoHS) o usar el $15.3 para negociar a Nove.
 - **Trampa a verificar:** que el ION sea real, no solo vibración + calor.
-- **Acción:** Xiazhifeng como principal o palanca para negociar a Nove. Cantidad: **12-15 uds** (10-13 vender + 2 colchón/demo).
+- **Acción:** estado vivo en el **Tablero de candidatos** (abajo). Cantidad: **12-15 uds** (10-13 vender + 2 colchón/demo).
 
 #### Tablero de candidatos del aparato (jun 2026)
 | Proveedor | Estado | Notas |
 |---|---|---|
 | Xiazhifeng (KY108) | ⛔ Pausado | Acabado **cuarteado** confirmado en foto (mata percepción premium). TA✅ UN38.3✅ pero calidad ❌ |
 | Baichang (BI46) | ✂️ Descartado | Confirmó **SIN ION+/−** y **SIN frío** (solo calor 42°C + EMS + LED) → no es galvánico |
-| Nove (NV-IH01) | 🟢 Respaldo seguro | Galvánico confirmado, dijo tener CE/RoHS, paga-retiene 10%. $22 |
+| **Nove (NV-IH01)** | 🟢 **PRINCIPAL (recuperado)** | Galvánico hot/cold + LED, ~$22. Proveedor más creíble (4.9/2.736, IEC 60601, TA). Volvió al frente al caer Xiazhifeng. Pedir: foto/video unidad blanca + UN38.3 + caja neutra + OEM + confirmar modelo |
+| Nove (NV-LP01) | 🟡 Alt premium | EMS + electroporación + calor (**SIN frío**), $28. Solo si pivota a héroe premium de lifting |
 | Water Stone / Wochuan / Songzhe / nuevos | 🔍 Por contactar | Pedir ION+/−, frío/calor, **foto/video unidad blanca**, UN38.3, TA |
 
-> **Regla de oro:** ningún pago sin **foto/video de unidad blanca real con acabado impecable** + **ION+/− confirmado** + **UN38.3** + **Trade Assurance**. Plan B seguro = **Nove**. Tope de pedido **~15 julio**.
+> **Regla de oro:** ningún pago sin **foto/video de unidad blanca real con acabado impecable** + **ION+/− confirmado** + **UN38.3** + **Trade Assurance**. **Carta segura = Nove NV-IH01 ($22, con frío).** Seguir buscando opciones más bonitas en paralelo, pero esta es la red de seguridad. Tope de pedido **~15 julio**.
 
 ### 3. Gel conductor — DEFINIDO: gel de aloe de marca coreana (ruta USA)
 - **Solución:** gel de **aloe ~99% de marca reconocida coreana** (Nature Republic / Holika / TonyMoly) = base agua, conductor, calmante, barato, **marca reconocida** (respeta Clase 10, NO marca propia). Mejor que el gel médico de ultrasonido.
