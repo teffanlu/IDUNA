@@ -63,6 +63,16 @@ Producto pequeño/liviano aprox. +$7-10/u de costos. **Objetivo de margen del ap
 - **Trampa a verificar:** que el ION sea real, no solo vibración + calor.
 - **Acción:** Xiazhifeng como principal o palanca para negociar a Nove. Cantidad: **12-15 uds** (10-13 vender + 2 colchón/demo).
 
+#### Tablero de candidatos del aparato (jun 2026)
+| Proveedor | Estado | Notas |
+|---|---|---|
+| Xiazhifeng (KY108) | ⛔ Pausado | Acabado **cuarteado** confirmado en foto (mata percepción premium). TA✅ UN38.3✅ pero calidad ❌ |
+| Baichang (BI46) | ✂️ Descartado | Confirmó **SIN ION+/−** y **SIN frío** (solo calor 42°C + EMS + LED) → no es galvánico |
+| Nove (NV-IH01) | 🟢 Respaldo seguro | Galvánico confirmado, dijo tener CE/RoHS, paga-retiene 10%. $22 |
+| Water Stone / Wochuan / Songzhe / nuevos | 🔍 Por contactar | Pedir ION+/−, frío/calor, **foto/video unidad blanca**, UN38.3, TA |
+
+> **Regla de oro:** ningún pago sin **foto/video de unidad blanca real con acabado impecable** + **ION+/− confirmado** + **UN38.3** + **Trade Assurance**. Plan B seguro = **Nove**. Tope de pedido **~15 julio**.
+
 ### 3. Gel conductor — DEFINIDO: gel de aloe de marca coreana (ruta USA)
 - **Solución:** gel de **aloe ~99% de marca reconocida coreana** (Nature Republic / Holika / TonyMoly) = base agua, conductor, calmante, barato, **marca reconocida** (respeta Clase 10, NO marca propia). Mejor que el gel médico de ultrasonido.
 - Se compra por **ruta USA (YesStyle/iHerb)**, NO por China (líquido pesado = mal CBM). Detalle en `sourcing-skincare-usa.md`.
