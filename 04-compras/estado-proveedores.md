@@ -14,7 +14,8 @@
 | **Jihong Ande (Paul)** | Estuche crema blank 22×12×9 | 30 | $53.40 | ✓ Cotizado |
 | **Yiwu (Sandy)** | Set cintillo + 2 muñequeras | 50 | $49 | ✓ Cotizado · falta elegir color |
 | **Conocido** | Espátula de silicona | ~50 | ~$33.50 | ✓ Cotizado · falta color |
-| **Yuanjie (Alice)** | Pouch faux suede 10×14 | 100 | ~$72 | ⏳ ESPERA SAPI (logo) |
+| **Yuanjie (Alice)** | Pouch faux suede 10×14 (chico/gua sha) | 100 | ~$72 | ⏳ ESPERA SAPI (logo) |
+| **Por definir (Jihong vs Alice)** | Pouch grande p/ aparato (home-storage) | ~15 | por cotizar | 🆕 Dimensión que entre 140×52×28mm; sourcing TBD |
 
 **Total cuadrado (sin pouch): ~$610.60.** Colchón restante sobre el capital del lote ~**$1,000–1,400 → sano**.
 
@@ -28,7 +29,7 @@
 ### Falta traer de China (empaque/blank) — consolidar con Jihong Ande (Paul)
 - ✅ **Confirmado que Jihong también vende:** bolsita de **cordón/lona** (candidata gua sha, ~$0.09/u) + **bolsa de papel con asa** (手提袋, ~$0.09/u; logo MOQ 500). → ver detalle en §5b.
 - Por cotizar con él: cajas **mailer** (飞机盒 / *feijihe*) y bolsas **frosted CPE** con autosello (磨砂自封袋 / *mosha zifeng dai*).
-- 🔧 Abiertos: dimensión de la presentación del **aparato** + decidir pouch gua sha (lona Jihong vs. faux suede Alice).
+- 🔧 Abiertos: **sourcing del pouch** (lona Jihong vs. faux suede Alice) y **colores** (cintillo/espátula/pouch). ✅ Resuelto: el aparato lleva **pouch grande propio** (home-storage) incluido en su compra.
 
 ---
 
@@ -114,7 +115,8 @@ Producto pequeño/liviano aprox. +$7-10/u de costos. **Objetivo de margen del ap
 - Fase 2: traerlo como SKU distinto (ángulo "escudo anti-calor de Maracaibo"). Preguntar a Easter si lo hace en acero (consolidar).
 
 ### 5. Empaque — COTIZÁNDOSE (lote 1)
-- **Pouch cliente:** **faux suede 10×14** — proveedor **Yuanjie (Alice)**, 100 uds ~$72 (~$0.72/u). **⏳ EN ESPERA DE SAPI:** el logo va sobre el pouch, así que se confirma cuando salga el registro. Mientras tanto, el resto del lote va **blank**.
+- **Pouch cliente (chico/gua sha):** **faux suede 10×14** — proveedor **Yuanjie (Alice)**, 100 uds ~$72 (~$0.72/u). **⏳ EN ESPERA DE SAPI:** el logo va sobre el pouch, así que se confirma cuando salga el registro. Mientras tanto, el resto del lote va **blank**.
+- **Pouch grande para el aparato (NUEVO):** se suma una dimensión mayor que acomode el galvánico (~140×52×28 mm) y va **dentro de la compra del aparato** como bolsita de guardado en casa. Sourcing por decidir (Jihong lona vs. Alice faux suede) — ver §5b.
 - **Pañuelo de microfibra → DESCARTADO** (no aporta lo suficiente al kit; simplifica CBM y costo).
 - **Estuche / blank + bolsas:** ver **Jihong Ande (Paul)** en 5b. Consolidar TODO el empaque con él.
 - Tránsito: white bag gratis de Easter (anti-rayón) o bolsa CPE/frosted barata.
@@ -128,8 +130,10 @@ Producto pequeño/liviano aprox. +$7-10/u de costos. **Objetivo de margen del ap
 - **Aún por cotizar con él:** cajas **mailer** (飞机盒 / *feijihe*) y bolsas **frosted CPE** con autosello (磨砂自封袋 / *mosha zifeng dai*).
 - **Logo:** personalización con MOQ ~500 → como esperamos SAPI, el lote 1 va **blank** (bajo 500) y el branding se suma en recompra/local.
 
-> **DECISIÓN ABIERTA — dimensión para el aparato:** la clienta quiere **otra dimensión** para la presentación del aparato (galvánico ~140×52×28 mm). Pendiente aclarar si es bolsa/estuche más grande o cambio de modelo del aparato → elegir tamaño con Paul ("pick and choose").
-> **DECISIÓN ABIERTA — pouch gua sha:** ¿lona/drawstring de Jihong (consolida) vs. faux suede de Alice? Propuesta: faux suede premium para el **héroe**, lona/drawstring para la **gua sha**.
+> **POUCHES DEL KIT — 2 tamaños:**
+> - **Chico (gua sha):** ~10×14 cm — acomoda la gua sha (80×50×5 mm). *(hoy cotizado con Alice; ver §5)*
+> - **Grande (aparato) — NUEVO:** dimensión adicional que acomode el galvánico (~140×52×28 mm). **Se incluye DENTRO de la compra del aparato como su bolsita para guardar el producto en casa.** Pedir a Paul el tamaño "pick and choose" con ~1-2 cm de holgura (estimado ~16×20 cm) + fondo que aguante el grosor de 28 mm.
+> **Sourcing por decidir:** todo en **lona/drawstring de Jihong** (consolida + más barato) vs. **faux suede de Alice** para el aparato (acabado premium del héroe). Recomendación: faux suede premium para el **aparato**, lona para la **gua sha** — o todo Jihong si su faux suede es comparable.
 
 ### 6. Micro-accesorios — COTIZADOS (lote 1)
 Baratos, casi 0 CBM, **branding propio permitido** (no son cosméticos). Convierten los productos + skincare en kits completos.
