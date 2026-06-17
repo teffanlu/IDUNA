@@ -26,9 +26,9 @@
 - **Pago:** Trade Assurance, desde la **cuenta de finanzas**, con **recap** de confirmación por escrito antes de pagar.
 
 ### Falta traer de China (empaque/blank) — consolidar con Jihong Ande (Paul)
-- Cajas **mailer** (飞机盒 / *feijihe*).
-- Bolsas de compra **chica + mediana** (手提袋 / *shoutidai*).
-- Bolsas **frosted CPE** con autosello (磨砂自封袋 / *mosha zifeng dai*).
+- ✅ **Confirmado que Jihong también vende:** bolsita de **cordón/lona** (candidata gua sha, ~$0.09/u) + **bolsa de papel con asa** (手提袋, ~$0.09/u; logo MOQ 500). → ver detalle en §5b.
+- Por cotizar con él: cajas **mailer** (飞机盒 / *feijihe*) y bolsas **frosted CPE** con autosello (磨砂自封袋 / *mosha zifeng dai*).
+- 🔧 Abiertos: dimensión de la presentación del **aparato** + decidir pouch gua sha (lona Jihong vs. faux suede Alice).
 
 ---
 
@@ -120,10 +120,16 @@ Producto pequeño/liviano aprox. +$7-10/u de costos. **Objetivo de margen del ap
 - Tránsito: white bag gratis de Easter (anti-rayón) o bolsa CPE/frosted barata.
 - La marca la carga el **sticker + tarjeta** (impresión local). Pouch/bolsas se aplastan = buen CBM.
 
-### 5b. Estuche y empaque blank — Jihong Ande (Paul)
+### 5b. Estuche y empaque — Jihong Ande (Paul) · Shenzhen Jihong Ande Technology Co., Ltd.
+**Proveedor-ancla de empaque del lote** (tienda 4.8/5, responde ≤1h). Resultó que **también hace bolsas** → consolidar TODO con él.
 - **Estuche crema blank 22×12×9**, **30 uds = $53.40** (~$1.78/u). ✓ Cotizado, va **blank** (sin logo) en el lote 1.
-- **Consolidar con él (cotizar):** cajas **mailer** (飞机盒 / *feijihe*), bolsas de compra **chica + mediana** (手提袋 / *shoutidai*), bolsas **frosted CPE** con autosello (磨砂自封袋 / *mosha zifeng dai*).
-- Es el proveedor de empaque del lote → pedirle todo junto para optimizar un solo envío de empaque.
+- **Bolsita de cordón (drawstring) en lona/algodón** — **candidata para la gua sha** (las "bolsitas" que se querían). Precio: **$0.09** (100-999) · $0.08 (1k-2k) · $0.07 (2k-10k) · $0.05 (≥10k). Muestra $0.01. Tamaños mini→XL, muchos colores, logo personalizable. *Cupones de tienda: -$5 en $50 / -$10 en $500.*
+- **Bolsa de papel de compra con asa (手提袋 / *shoutidai*)** — para entrega/regalo. **$0.09** (100-499) · $0.08 (500-999) · $0.07 (≥1k). **Logo/diseño y embalaje personalizado: MOQ 500.** Varios tamaños (mini→XL).
+- **Aún por cotizar con él:** cajas **mailer** (飞机盒 / *feijihe*) y bolsas **frosted CPE** con autosello (磨砂自封袋 / *mosha zifeng dai*).
+- **Logo:** personalización con MOQ ~500 → como esperamos SAPI, el lote 1 va **blank** (bajo 500) y el branding se suma en recompra/local.
+
+> **DECISIÓN ABIERTA — dimensión para el aparato:** la clienta quiere **otra dimensión** para la presentación del aparato (galvánico ~140×52×28 mm). Pendiente aclarar si es bolsa/estuche más grande o cambio de modelo del aparato → elegir tamaño con Paul ("pick and choose").
+> **DECISIÓN ABIERTA — pouch gua sha:** ¿lona/drawstring de Jihong (consolida) vs. faux suede de Alice? Propuesta: faux suede premium para el **héroe**, lona/drawstring para la **gua sha**.
 
 ### 6. Micro-accesorios — COTIZADOS (lote 1)
 Baratos, casi 0 CBM, **branding propio permitido** (no son cosméticos). Convierten los productos + skincare en kits completos.
