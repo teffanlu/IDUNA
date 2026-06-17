@@ -47,6 +47,7 @@ Este repositorio es la **fuente de verdad** del proyecto. Todos los chats de tra
 - `canales-y-distribucion.md` — Canales de venta (IG, web) y distribución nacional (MRW/Zoom/Tealca/Liberty, última milla).
 - `foda.md` — Análisis FODA consolidado.
 - `kpis-y-metricas.md` — Marco de medición (qué se mide y con qué frecuencia).
+- `decision-aparato-heroe-fase1.md` — Decisión: el héroe del lanzamiento Q4 es el **ritual** (lo que la cabina domina); el galvánico entra como **upgrade condicional** a 4 compuertas, no como apuesta de timing.
 
 ### `04-compras/`
 - `sistema-compra-alibaba.md` — Búsqueda, evaluación y costeo de proveedores (lista de búsqueda, filtros, preguntas, costo de aterrizaje).
