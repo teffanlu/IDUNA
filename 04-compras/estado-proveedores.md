@@ -1,7 +1,36 @@
 # IDUNA — Estado de Proveedores y Compras (handoff)
 
 > Documento de traspaso para continuar la investigación/compra en cualquier chat.
-> Resume decisiones, proveedores y pendientes. Última actualización: junio 2026.
+> Resume decisiones, proveedores y pendientes. Última actualización: junio 2026 (snapshot lote 1).
+
+## 📦 Estado del lote 1 — cotizaciones (snapshot, junio 2026)
+
+> Estado vivo de las cotizaciones, todas **a casillero China**. El detalle por producto está más abajo.
+
+| Proveedor | Producto | Cant | Total | Estado |
+|---|---|---|---|---|
+| **Easter** | Gua sha corazón 80×50×5mm | 50 | $133 | ✓ Cotizado |
+| **Nove (Crystal)** | Aparato galvánico NV-IH01 (héroe) | 15 | $341.70 | 💰 Falta foto unidad blanca + UN38.3 **antes de pagar** |
+| **Jihong Ande (Paul)** | Estuche crema blank 22×12×9 | 30 | $53.40 | ✓ Cotizado |
+| **Yiwu (Sandy)** | Set cintillo + 2 muñequeras | 50 | $49 | ✓ Cotizado · falta elegir color |
+| **Conocido** | Espátula de silicona | ~50 | ~$33.50 | ✓ Cotizado · falta color |
+| **Yuanjie (Alice)** | Pouch faux suede 10×14 | 100 | ~$72 | ⏳ ESPERA SAPI (logo) |
+
+**Total cuadrado (sin pouch): ~$610.60.** Colchón restante sobre el capital del lote ~**$1,000–1,400 → sano**.
+
+### Decisiones tomadas
+- **Héroe (margen) = galvánico Nove NV-IH01.**
+- **Estuche = Jihong Ande** (crema blank).
+- **Pañuelo de microfibra → descartado.**
+- **Logo espera SAPI** → todo va **blank ahora**, branding local después.
+- **Pago:** Trade Assurance, desde la **cuenta de finanzas**, con **recap** de confirmación por escrito antes de pagar.
+
+### Falta traer de China (empaque/blank) — consolidar con Jihong Ande (Paul)
+- Cajas **mailer** (飞机盒 / *feijihe*).
+- Bolsas de compra **chica + mediana** (手提袋 / *shoutidai*).
+- Bolsas **frosted CPE** con autosello (磨砂自封袋 / *mosha zifeng dai*).
+
+---
 
 ## Contexto rápido del negocio
 - Marca paraguas **IDUNA**, primera categoría **IDUNA SKIN SYSTEM**.
@@ -37,6 +66,8 @@ Producto pequeño/liviano aprox. +$7-10/u de costos. **Objetivo de margen del ap
 
 ### 2. Aparato héroe — GALVÁNICO (Camino B). Candidatos: Xiazhifeng vs Nove
 **Decisión:** el héroe del lote 1 es un **aparato galvánico/iónico multifunción** (ION+/ION−, frío/calor, LED), **NO un EMS/microcorriente**. Reposicionado honesto: absorción/glow/poros/calma (no "lifting"). EMS premium → Fase 2.
+
+> **COTIZACIÓN DEL LOTE 1 (jun 2026):** héroe = **Nove NV-IH01** (contacto: Crystal). **15 uds × ~$22.78 = $341.70** a casillero China. **GATES innegociables antes de pagar:** foto/video de **unidad blanca** real con acabado impecable + **UN38.3** (batería de litio) + Trade Assurance + recap por escrito. Pago desde la **cuenta de finanzas**.
 
 **🚩 Por qué NO EMS:** Nove envió PDFs del modelo **NV-IH01 "冷热导入仪"** = galvánico/iónico, **sin estimulación muscular** (verificado con lectura de los PDF). El nv-115eh original podría ser galvánico disfrazado de "microcurrent". Fichas con contradicciones (auto-apagado 3 vs 8 min; 8000 vs 12000 RPM; "5305nm" vs 530nm). **Claims a EVITAR** (baneo Meta + ética): "mata bacterias del acné", "elimina cicatrices", "drenaje linfático".
 
@@ -82,19 +113,26 @@ Producto pequeño/liviano aprox. +$7-10/u de costos. **Objetivo de margen del ap
 - **Sale del lote 1**: canibaliza al gua sha en el rol "desinflamar en la mañana". El **gua sha de acero se enfría en la nevera** y cubre esa función con un solo SKU.
 - Fase 2: traerlo como SKU distinto (ángulo "escudo anti-calor de Maracaibo"). Preguntar a Easter si lo hace en acero (consolidar).
 
-### 5. Empaque — EN DEFINICIÓN (arranca al asegurar los 2 productos)
-- Cliente: **faux suede pouch (~$0.37)** + **pañuelo de microfibra (~$0.28)**, MOQ 100 (proveedor ya cotizado hace ~1 mes). Confirmar que el **tamaño** acomode gua sha (corazón) y aparato (140×52×28mm). Preguntarle si también hace **cintillo + espátula** (consolidar).
-- Tránsito: white bag gratis de Easter (anti-rayón) o bolsa CPE barata.
-- La marca la carga el **sticker + tarjeta** (impresión local). Pouch/pañuelo se aplastan = buen CBM.
+### 5. Empaque — COTIZÁNDOSE (lote 1)
+- **Pouch cliente:** **faux suede 10×14** — proveedor **Yuanjie (Alice)**, 100 uds ~$72 (~$0.72/u). **⏳ EN ESPERA DE SAPI:** el logo va sobre el pouch, así que se confirma cuando salga el registro. Mientras tanto, el resto del lote va **blank**.
+- **Pañuelo de microfibra → DESCARTADO** (no aporta lo suficiente al kit; simplifica CBM y costo).
+- **Estuche / blank + bolsas:** ver **Jihong Ande (Paul)** en 5b. Consolidar TODO el empaque con él.
+- Tránsito: white bag gratis de Easter (anti-rayón) o bolsa CPE/frosted barata.
+- La marca la carga el **sticker + tarjeta** (impresión local). Pouch/bolsas se aplastan = buen CBM.
 
-### 6. Micro-accesorios — SUMAR AL LOTE 1 (ganancia pura)
-Baratos, casi 0 CBM, **branding propio permitido** (no son cosméticos). Convierten los 2 productos + skincare en kits completos.
-| Accesorio | Búsqueda | ~Precio | MOQ | Cant. |
+### 5b. Estuche y empaque blank — Jihong Ande (Paul)
+- **Estuche crema blank 22×12×9**, **30 uds = $53.40** (~$1.78/u). ✓ Cotizado, va **blank** (sin logo) en el lote 1.
+- **Consolidar con él (cotizar):** cajas **mailer** (飞机盒 / *feijihe*), bolsas de compra **chica + mediana** (手提袋 / *shoutidai*), bolsas **frosted CPE** con autosello (磨砂自封袋 / *mosha zifeng dai*).
+- Es el proveedor de empaque del lote → pedirle todo junto para optimizar un solo envío de empaque.
+
+### 6. Micro-accesorios — COTIZADOS (lote 1)
+Baratos, casi 0 CBM, **branding propio permitido** (no son cosméticos). Convierten los productos + skincare en kits completos.
+| Accesorio | Proveedor | Cant | Total | Estado |
 |---|---|---|---|---|
-| Cintillo de felpa/spa | `spa headband coral fleece` | $0.30-0.70 | 50-100 | 100 |
-| Espátula de silicona | `silicone face mask applicator spatula` | $0.10-0.30 | 100-500 | 100 |
-| Muñequera microfibra (opc.) | `microfiber wrist wash band spa` | $0.20-0.50/par | 100-200 | 50 par |
-- Consolidar en UN proveedor (preguntar al de faux suede pouch + pañuelo). Color: carbón/crema/terracota. Logo sube MOQ → lote 1 va liso + sticker. Costo total 100 c/u ≈ $50-90.
+| **Set cintillo + 2 muñequeras** | Yiwu (Sandy) | 50 | $49 | ✓ Cotizado · **falta elegir color** |
+| **Espátula de silicona** | Conocido | ~50 | ~$33.50 | ✓ Cotizado · **falta color** |
+- Cambio vs. plan previo: cintillo y muñequeras ahora vienen **en set** (Yiwu/Sandy), no sueltos. Color sugerido: carbón/crema/terracota.
+- Logo sube MOQ → lote 1 va **liso + sticker** local. **Pendiente: confirmar colores de cintillo/espátula/pouch.**
 
 ### 7. Máscara LED — FASE 2
 - NO comprar aún. Solo registrar precios. Alto CBM y cara; canibaliza el LED del galvánico.
@@ -115,20 +153,26 @@ Baratos, casi 0 CBM, **branding propio permitido** (no son cosméticos). Convier
 ---
 
 ## Pendientes inmediatos
-1. **Aparato:** esperar respuestas de Xiazhifeng (precio/specs/CE-RoHS/UN38.3/caja neutra/video ION) y comparar/negociar con Nove.
-2. **Gua sha (Easter):** confirmar forma corazón/precio 50u + foto cloth bag (o declinarlo) + si hace cryo en acero (Fase 2).
-3. **Empaque + accesorios:** confirmar tamaño faux suede + pañuelo + si hacen cintillo/espátula (MOQ 100), tras asegurar los 2 productos.
-4. **Costeo:** llenar la tabla de `sistema-compra-alibaba.md` con flete/aduana reales → validar margen aparato >55%.
-5. **Skincare (ruta USA):** ejecutar YesStyle/Ulta cuando el pedido China esté EN VÍA (ver `sourcing-skincare-usa.md`).
-6. Confirmar con abogado la clase del gel/skincare bajo marca IDUNA.
+1. **Nove (aparato):** exigir **foto/video de unidad blanca** + **UN38.3** antes de pagar (gates innegociables). Confirmar TA + recap.
+2. **Colores:** elegir color del **set cintillo+muñequeras (Yiwu)**, de la **espátula** y del **pouch (Alice)**.
+3. **Jihong Ande (Paul):** cotizar **pouch + cajas mailer (飞机盒) + bolsas de compra (手提袋) + frosted CPE (磨砂自封袋)** y consolidar el empaque.
+4. **Flete a Global:** confirmar con la agencia (Global) el flete del consolidado + que **aceptan baterías de litio por mar** y qué docs piden (UN38.3).
+5. **SAPI:** seguimiento del registro → libera el branding del pouch y el empaque con logo.
+6. **Costeo:** llenar la tabla de `sistema-compra-alibaba.md` con flete/aduana reales → validar margen aparato >55%.
+7. **Skincare (ruta USA):** ejecutar YesStyle/Ulta cuando el pedido China esté EN VÍA (ver `sourcing-skincare-usa.md`).
+8. **Tope de pedido en Alibaba: ~15 de julio** (cuello de botella = proveedor más lento).
+9. Confirmar con abogado la clase del gel/skincare bajo marca IDUNA.
 
 ## Decisiones de cantidad (lote 1, ~$2,625)
-- **Aparato galvánico (héroe):** 12-15 uds (10-13 vender + 2 colchón/demo). Conservador por riesgo, no por dinero.
-- **Gua sha:** ~50 uds (entrada, casi 0 CBM; aprovecha el CBM mínimo de 0.15 que igual se paga).
-- **Micro-accesorios:** cintillo 100 · espátula 100 · muñequera 50 par (opc.). Empaque: ~65 sets faux suede + pañuelo (MOQ 100 = buffer).
+- **Aparato galvánico Nove (héroe):** **15 uds** (~13 vender + 2 colchón/demo) = $341.70. Conservador por riesgo, no por dinero.
+- **Gua sha (Easter):** **50 uds** = $133 (entrada, casi 0 CBM; aprovecha el CBM mínimo de 0.15 que igual se paga).
+- **Estuche crema blank (Jihong):** **30 uds** = $53.40.
+- **Micro-accesorios:** set cintillo+2 muñequeras (Yiwu) **50** = $49 · espátula (Conocido) **~50** = ~$33.50.
+- **Pouch faux suede (Alice):** **100** = ~$72 (⏳ espera SAPI).
+- **Total mercancía China (sin pouch): ~$610.60** → colchón restante ~$1,000–1,400 = sano.
 - **Gel + skincare:** ruta USA, lotes chicos (ver `sourcing-skincare-usa.md`).
 - **Cryo / EMS / máscara LED:** Fase 2 ($0 ahora).
-- Reparto de capital: mercancía China ~$500-600 · flete/aduana (según agencia) · skincare USA ~$300-500 · empaque/stickers local ~$100-150 · **colchón = el resto**. NO meter los $2,625 en el envío de China.
+- Reparto de capital: mercancía China ~$610 · flete/aduana (según Global) · skincare USA ~$300-500 · empaque/stickers local ~$100-150 · **colchón = el resto**. NO meter los $2,625 en el envío de China.
 
 ---
 
