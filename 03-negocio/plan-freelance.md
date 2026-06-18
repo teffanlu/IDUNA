@@ -32,6 +32,16 @@
 
 > Nota: **Meta Ads SÍ se mantiene** — es un servicio puntual, técnico y medible (no es "manejo de redes"). Se cobra por proyecto + la pauta la paga el cliente.
 
+### Nichos candidatos (del research 2026 — todos pasan el filtro "alto valor, sin inventario absurdo")
+Negocios con alto valor por cliente (LTV), citas/presupuestos y recurrencia — donde la automatización rinde más:
+1. **Clínicas y medicina estética** (odontología, láser, dermo): dolor = ausentismo y abandono de tratamientos → recordatorios y seguimiento automatizado.
+2. **Bienes raíces / inmobiliarias**: dolor = leads basura y ciclo largo → precalificación con IA + drip de seguimiento.
+3. **Servicios B2B, firmas legales y financieras**: dolor = el primero en responder gana → Missed-Call Text-Back + reserva de citas.
+4. **Coaches, consultores e infoproductos**: dolor = herramientas fragmentadas y carritos abandonados → todo consolidado en GHL.
+5. **Servicios para el hogar de alto ticket** (remodelación, energía solar, seguridad): dolor = presupuestos sin seguimiento → pipeline + recordatorios automáticos.
+
+> Elegir **UN** nicho para empezar (el que tenga más en mi red cálida) y construir ahí el primer snapshot de GHL.
+
 ---
 
 ## 2. Stack técnico definitivo (web con IA, sin Shopify)
@@ -59,14 +69,15 @@ El problema pasado fue usar themes pesados/multipropósito. La regla nueva:
 - **Imágenes**: generación/mejora de fotos de producto y lifestyle con IA.
 
 ### GoHighLevel (GHL) — qué hacer con él
-Ya tengo cuenta GHL (la armé para tagcreativo; sitio y dominio abandonados). Decisión:
-- **NO** usarlo como página de presentación (pagar ~$97/mes por alojar 1 página es quemar caja). Mi portafolio va en WordPress = demo vivo de mi servicio.
-- **NO** botar la cuenta: dejarla **dormida** (sin pagar). Es mi arma de Fase 2.
-- **SÍ** ofrecerlo como servicio, pero en **Fase 2**: GHL = CRM + embudos + automatización + reventa white-label (SaaS mode), ingreso **recurrente de infraestructura** (no "manejo de redes"). Planes 2026: $97 / $297 / $497 mensual.
-- Activar la **prueba de 14 días solo cuando ya tenga un cliente listo** que pague el setup + mensualidad.
-- **Regla de caja:** no pagar suscripciones mensuales antes de tener ingresos.
+Ya tengo cuenta GHL y **actualmente me la facilitan GRATIS** ("por el momento", o sea: temporal). Esto cambia la jugada — aprovecho la ventana sin quemar caja, pero sin crear dependencia ciega.
 
-> Demanda de mercado que valida esto (2026): lo más contratado son **webs/landing que convierten, e-commerce simple, branding** y —en alza— **automatización + CRM + chatbots con IA**. La combinación *web que vende + seguimiento automatizado + entrega con IA* encaja justo con mi perfil de ingeniera + GHL.
+Plan con GHL:
+- **Aprovechar la ventana gratis YA** para: (a) **aprender GHL a fondo**, (b) montar mi **propio CRM de prospección** ahí (gestiono mis leads de tagbyteff), y (c) construir **1 snapshot/plantilla de un nicho** lista para revender.
+- **Meta clave:** que **un cliente que pague cubra GHL antes de que deje de ser gratis.** Nunca depender de lo gratis sin ese plan B.
+- **GHL = mi oferta premium recurrente** (la mina de oro): CRM + embudos + automatización + seguimiento por WhatsApp/SMS/email + reventa white-label (SaaS mode). Es ingreso **recurrente de infraestructura**, NO "manejo de redes".
+- Planes de referencia 2026: $97 / $297 / $497 mensual. Costo real de operar un cliente en LATAM (API WhatsApp tipo Wati/360dialog + SMTP): ~$113–$143/mes → por eso un retainer administrado **nunca se cotiza por debajo de $300–$500/mes**.
+
+> **Demanda validada (research 2026):** la automatización/CRM es el servicio de **mayor demanda, menor saturación y mayor rentabilidad**; el branding está **hiper-saturado** (solo como upsell); la web catálogo→WhatsApp tiene demanda media-alta pero está más comoditizada. Mi perfil de **ingeniera** (lógica, APIs, webhooks) es el diferenciador que me saca de la guerra de precios.
 
 ---
 
@@ -83,7 +94,9 @@ Precios de **arranque** en USD (Maracaibo). Subir tras cerrar 2–3 casos. Mis m
 | **Catálogo grande / con variantes** | +30 productos, categorías, variantes, filtros | $600 – $900 |
 | **Mantenimiento web** (recurrente cómodo) | Cambios menores, respaldos, actualizaciones, soporte | $20 – $40/mes |
 
-### B. Identidad (upsell natural de la web)
+### B. Identidad (SOLO como upsell — nunca aislado)
+> El research confirma que el branding está hiper-saturado y mal pagado solo. Se vende únicamente pegado a una web/sistema.
+
 | Paquete | Qué incluye | Precio |
 |---|---|---|
 | **Mini identidad** | Logo + paleta + tipografías + mini guía | $150 – $250 |
@@ -93,10 +106,20 @@ Precios de **arranque** en USD (Maracaibo). Subir tras cerrar 2–3 casos. Mis m
 | Paquete | Qué incluye | Precio |
 |---|---|---|
 | **Setup de campaña** | Cuenta/píxel, 1 campaña, 2–3 públicos, creativos base, medición CAC/ROAS | $90 – $180 (una vez) **+ pauta del cliente** |
+| **Gestión mensual** | Optimización, A/B, reportes | $300 – $1.000/mes **o** 15–25% de la pauta |
+| **Desbloqueo Meta Venezuela** ⭐ (técnico, casi sin competencia) | Business Manager offshore (ej. Colombia), permisos cruzados, verificación, conexión API WhatsApp Cloud para reactivar el objetivo "Mensajes" bloqueado en VE | $50 – $100/hora o paquete fijo |
+
+### D. Automatización / CRM con GoHighLevel ⭐⭐ (la mina de oro — Fase 2, ventana gratis ahora)
+| Paquete | Qué incluye | Precio |
+|---|---|---|
+| **Setup / construcción** | Pipelines, embudos, migración de datos, integraciones API, IA conversacional, respuesta inmediata por WhatsApp | $800 – $7.500 (único) |
+| **Gestión (retainer)** | Monitoreo, lanzamientos, ajuste de flujos, soporte | $500 – $5.000/mes |
+| **Reventa marca blanca (SaaS)** | Revender el software con mi marca por nicho (snapshot) | $97 – $297/mes por cliente |
 
 ### Combos ancla (lo que más cierra)
-- **Combo Marca + Web:** Mini identidad + Catálogo WhatsApp → **$500 – $900**.
+- **Combo Puerta de Entrada:** Catálogo WhatsApp + Mini identidad → **$500 – $900**.
 - **Combo Lanzamiento:** Landing + Setup Meta Ads → **$280 – $480** + pauta.
+- **Combo Ascensión (la escalera):** Web → upsell de automatización GHL (seguimiento de leads) → retainer recurrente.
 
 **Condiciones:** 50% anticipo / 50% contra entrega · hosting y dominio aparte (los paga el cliente) · 2 rondas de cambios incluidas · cobro en USD (Zelle/Binance/efectivo/PagoMóvil al cambio).
 
@@ -149,13 +172,33 @@ Secuencia concreta (es también mi mejor demo):
 3. **Campaña Meta Ads pequeña** apuntando a dueñas/os de negocios locales en Maracaibo (filtro por problema, no por industria), llevando tráfico a esa landing.
 4. Medir CAC (cuánto me cuesta un prospecto) → es mi propio caso de estudio para vender Ads a clientes.
 
+### Estructura exacta de la landing-portafolio (montar en Kadence + Gutenberg)
+Secciones, de arriba hacia abajo:
+1. **Héroe:** foto/logo + titular: *"Construyo la infraestructura digital que hace vender a tu negocio"* + subtítulo (web + catálogo WhatsApp + automatización) + botón **"Hablemos por WhatsApp"**.
+2. **El problema:** 3 dolores del cliente ("vendes por DM y pierdes pedidos", "no tienes web o el link no sirve", "los clientes se te enfrían sin seguimiento").
+3. **Qué hago (servicios):** 3 tarjetas — Webs catálogo→WhatsApp · Meta Ads · Automatización/CRM. (Branding mencionado como complemento, no como tarjeta principal.)
+4. **Casos / pruebas:** NapNam (+344% alcance, 52 consultas), Momo Design (landing 5★), IDUNA (identidad propia). Con imágenes antes/después.
+5. **Mi diferencia:** el ángulo ingeniera — "no vendo diseño bonito, vendo sistemas que se miden (CAC, ROAS, seguimiento)".
+6. **Cómo trabajo:** 4 pasos (diagnóstico → propuesta → ejecución → reporte) + condiciones (50% anticipo).
+7. **Cierre / CTA:** "Escríbeme y te armo una propuesta hoy" + botón WhatsApp.
+
+**Checklist de plugins mínimos (regla base liviana):**
+- Theme: **Kadence** (gratis).
+- **WooCommerce** (solo en proyectos de catálogo) + plugin de pedido por WhatsApp.
+- 1 plugin de formulario (ej. Fluent Forms o el de Kadence).
+- 1 de SEO básico (ej. Rank Math).
+- 1 de respaldos.
+- **Nada más** — pocos plugins = sitio rápido y sin el lío de "templates complicados".
+
+**Dominio:** comprar un dominio nuevo de tagbyteff (~$10–15/año) + hosting económico.
+
 ---
 
 ## 6.5 Hoja de ruta por fases (para obtener ganancias, paso a paso)
 
 | Fase | Cuándo | Foco | Ingreso |
 |---|---|---|---|
-| **Fase 1 — Caja rápida** | Semanas 1–4 | Vender **webs informativas + catálogo→WhatsApp** (WordPress). Sin pagar GHL. | Proyectos puntuales ($180–$900) |
+| **Fase 1 — Caja rápida** | Semanas 1–4 | Vender **webs informativas + catálogo→WhatsApp** (WordPress). Usar la **ventana gratis de GHL** para aprender + montar mi CRM y 1 snapshot de nicho. | Proyectos puntuales ($180–$900) |
 | **Fase 2 — Recurrente** | Mes 2+ | Sumar **mantenimiento web** y, si aparece el cliente correcto, **GHL (CRM/automatización)** como oferta premium. | Mensualidades ($20–$40 mant.; $97+ GHL) |
 | **Fase 3 — Escala** | Mes 3+ | Sistematizar con base reutilizable + IA; subir precios; eventual **SaaS mode de GHL**. | Recurrente apilado |
 
