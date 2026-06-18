@@ -48,6 +48,7 @@ Este repositorio es la **fuente de verdad** del proyecto. Todos los chats de tra
 - `foda.md` — Análisis FODA consolidado.
 - `kpis-y-metricas.md` — Marco de medición (qué se mide y con qué frecuencia).
 - `decision-aparato-heroe-fase1.md` — Decisión: el héroe del lanzamiento Q4 es el **ritual** (lo que la cabina domina); el galvánico entra como **upgrade condicional** a 4 compuertas, no como apuesta de timing.
+- `plan-freelance.md` — Plan de **caja personal a corto plazo** (servicios freelance de diseño/redes/Meta Ads/web en Maracaibo): paquetes y precios, cliente objetivo, mensajes de prospección, mini pitch/portafolio y plan de acción. Caja separada del capital de IDUNA.
 
 ### `04-compras/`
 - `sistema-compra-alibaba.md` — Búsqueda, evaluación y costeo de proveedores (lista de búsqueda, filtros, preguntas, costo de aterrizaje).
