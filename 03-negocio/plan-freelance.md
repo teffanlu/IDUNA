@@ -24,7 +24,8 @@
 | **Marca** | **tagbyteff** (fijo). Se archiva/redirige "tagcreativo". | Una sola marca = fin de la dispersión. Marca personal flexible que crece conmigo. |
 | **Ángulo** | "Infraestructura digital · estratega con visión de ingeniería." | No soy diseñadora pura: **construyo el sistema que vende** (web + catálogo + WhatsApp + orden). Es mi ventaja injusta. |
 | **Oferta héroe** | **Web catálogo con carrito → pedido por WhatsApp** (+ páginas informativas). | Es lo que el mercado local pide, lo que disfruto y domino, y NO es manejo de redes. |
-| **Nicho** | **Moda y joyería** (y emprendimientos de producto). | Mi mejor caso es NapNam (joyería, +344% alcance). Evito salud y supermercados. |
+| **Nicho (por PROBLEMA, no por industria)** | Negocios que **venden por WhatsApp/DM, pierden pedidos por no tener web/catálogo y tienen inventario MANEJABLE** (pocos productos o servicios). | Enfoque sin encasillarme: caben muchas industrias (servicios profesionales, belleza, restaurantes, fitness, moda/joyería, decoración, artesanal...). |
+| **EXCLUYO** | Supermercados, ferreterías y cualquier negocio de **inventario absurdo** (miles de SKUs). | No me gusta ese campo y es un infierno de mantener. |
 | **DESCARTO** | **Manejo de redes mensual** (calendario de contenido recurrente). | No me gusta, es cansón, lo pagan mal y siempre lo regatean. |
 | **DESCARTO** | **Shopify.** | No quiero trabajar con esa plataforma. |
 | **Limito** | Canva solo para piezas/manuales, no como motor de webs serias. | Canva web es limitado para catálogo + carrito. |
@@ -56,6 +57,16 @@ El problema pasado fue usar themes pesados/multipropósito. La regla nueva:
 - **Copy**: IA redacta los textos de la web en la voz del cliente; yo edito.
 - **Build**: borrador inicial de secciones con IA (o 10Web AI sobre WordPress); como ingeniera, uso IA para snippets de CSS/PHP limpios en vez de pelear con themes inflados.
 - **Imágenes**: generación/mejora de fotos de producto y lifestyle con IA.
+
+### GoHighLevel (GHL) — qué hacer con él
+Ya tengo cuenta GHL (la armé para tagcreativo; sitio y dominio abandonados). Decisión:
+- **NO** usarlo como página de presentación (pagar ~$97/mes por alojar 1 página es quemar caja). Mi portafolio va en WordPress = demo vivo de mi servicio.
+- **NO** botar la cuenta: dejarla **dormida** (sin pagar). Es mi arma de Fase 2.
+- **SÍ** ofrecerlo como servicio, pero en **Fase 2**: GHL = CRM + embudos + automatización + reventa white-label (SaaS mode), ingreso **recurrente de infraestructura** (no "manejo de redes"). Planes 2026: $97 / $297 / $497 mensual.
+- Activar la **prueba de 14 días solo cuando ya tenga un cliente listo** que pague el setup + mensualidad.
+- **Regla de caja:** no pagar suscripciones mensuales antes de tener ingresos.
+
+> Demanda de mercado que valida esto (2026): lo más contratado son **webs/landing que convierten, e-commerce simple, branding** y —en alza— **automatización + CRM + chatbots con IA**. La combinación *web que vende + seguimiento automatizado + entrega con IA* encaja justo con mi perfil de ingeniera + GHL.
 
 ---
 
@@ -96,8 +107,8 @@ Precios de **arranque** en USD (Maracaibo). Subir tras cerrar 2–3 casos. Mis m
 **Meta primeros 30 días:** 2–3 proyectos cerrados (al menos 1 catálogo WhatsApp) = caja + casos nuevos.
 
 ### Fuentes (de más fácil a más fría)
-1. **Red cálida:** familia, amigos, ex-compañeros de la Urdaneta, conocidos con emprendimiento de moda/joyería. Mayor conversión.
-2. **Negocios de moda/joyería en IG local:** lista de 30–40 cuentas con web inexistente o link roto.
+1. **Red cálida:** familia, amigos, ex-compañeros de la Urdaneta, conocidos con emprendimiento (de cualquier rubro que pase el filtro). Mayor conversión.
+2. **Negocios en IG local:** lista de 30–40 cuentas (cualquier industria con inventario manejable) con web inexistente o link roto.
 3. **Referidos:** pedir SIEMPRE 1 referido + testimonio al entregar.
 4. **Plataformas freelance** (opcional, ingreso extra): Workana / Freelancer en español para "página web catálogo".
 
@@ -135,8 +146,20 @@ No me gustan las redes → **mi IG es un portafolio, no una máquina de contenid
 Secuencia concreta (es también mi mejor demo):
 1. **Construir mi landing-portafolio tagbyteff** con el stack definitivo (WordPress) → doble función: portafolio + demo vivo del servicio web.
 2. Incluir: casos, paquetes, "cómo trabajo", botón WhatsApp.
-3. **Campaña Meta Ads pequeña** apuntando a dueñas/os de moda y joyería en Maracaibo, llevando tráfico a esa landing.
+3. **Campaña Meta Ads pequeña** apuntando a dueñas/os de negocios locales en Maracaibo (filtro por problema, no por industria), llevando tráfico a esa landing.
 4. Medir CAC (cuánto me cuesta un prospecto) → es mi propio caso de estudio para vender Ads a clientes.
+
+---
+
+## 6.5 Hoja de ruta por fases (para obtener ganancias, paso a paso)
+
+| Fase | Cuándo | Foco | Ingreso |
+|---|---|---|---|
+| **Fase 1 — Caja rápida** | Semanas 1–4 | Vender **webs informativas + catálogo→WhatsApp** (WordPress). Sin pagar GHL. | Proyectos puntuales ($180–$900) |
+| **Fase 2 — Recurrente** | Mes 2+ | Sumar **mantenimiento web** y, si aparece el cliente correcto, **GHL (CRM/automatización)** como oferta premium. | Mensualidades ($20–$40 mant.; $97+ GHL) |
+| **Fase 3 — Escala** | Mes 3+ | Sistematizar con base reutilizable + IA; subir precios; eventual **SaaS mode de GHL**. | Recurrente apilado |
+
+> Principio: **primero caja (bajo costo), luego recurrente (cuando el cliente lo pague).** Nunca suscripciones mensuales antes de tener ingresos.
 
 ---
 
@@ -146,7 +169,7 @@ Secuencia concreta (es también mi mejor demo):
 - [ ] Cerrar marca: tagbyteff fijo; archivar/redirigir tagcreativo.
 - [ ] Definir los 4 paquetes y precios finales (sección 3).
 - [ ] Montar la **base WordPress limpia reutilizable** (theme ligero + WooCommerce + plugin WhatsApp) = mi plantilla bien hecha.
-- [ ] Lista de 30 prospectos de moda/joyería (cálidos + fríos).
+- [ ] Lista de 30 prospectos (cualquier industria que pase el filtro: vende por WhatsApp, sin web, inventario manejable) — cálidos + fríos.
 
 ### Semana 2 — Demo + red cálida
 - [ ] Construir mi **landing-portafolio tagbyteff** (demo vivo).
