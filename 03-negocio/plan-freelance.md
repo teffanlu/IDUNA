@@ -1,237 +1,197 @@
-# Plan Freelance — Caja Personal (corto plazo)
+# Plan Freelance — tagbyteff (caja personal, corto plazo)
 
 > Plan para generar **ingreso personal** mientras IDUNA madura hacia el lanzamiento Q4 2026.
-> Servicios digitales que ya domino: **diseño, Meta Ads, manejo de redes y páginas web**.
+> Marca personal: **tagbyteff** (Teffany Luzardo · Infraestructura Digital).
+> Foco: **diseño + webs**. Descartado: manejo de redes mensual.
 > Última actualización: junio 2026.
 
 ---
 
-## 0. Reglas de oro de este plan (leer primero)
+## 0. Reglas de oro (leer primero)
 
-Este ingreso es **mi bolsillo personal**, no el de IDUNA. Para que ayude y no estorbe:
-
-1. **Cajas separadas.** El dinero del freelance NO se mezcla con el capital de IDUNA (~$2.625 del socio). Cuenta/wallet aparte. El freelance paga MI vida; IDUNA paga IDUNA.
-2. **No me disperso, lo encapsulo.** El plan de negocio ya advierte el riesgo de "hacer dos cosas a medias". Solución: el freelance vive en **bloques de tiempo fijos** (ej. mañanas o 3 días/semana), no invade el trabajo de Fase 0 de IDUNA.
-3. **Aprovecho la ventana correcta.** Jun–Jul es Fase 0 de IDUNA (validación + sourcing, casi sin vender). Es la mejor ventana para meterle al freelance: cuando IDUNA todavía no genera caja, el freelance la cubre.
-4. **El freelance ENTRENA a IDUNA.** Cada campaña de Meta Ads, cada feed y cada landing que hago para un cliente es práctica pagada de las mismas armas que IDUNA necesita. No es tiempo perdido: es músculo + caja.
-5. **Honestidad como sello (la "Mentora Honesta" también vende servicios).** Vender solo lo que el cliente necesita genera referidos. Es mi ventaja injusta vs. la agencia genérica.
+1. **Cajas separadas.** El dinero de tagbyteff NO se mezcla con el capital de IDUNA (~$2.625 del socio). Cuenta/wallet aparte.
+2. **Una marca, una oferta héroe, un nicho.** El antídoto contra la dispersión: foco. Todo lo demás es upsell, no protagonista.
+3. **No me disperso, lo encapsulo.** El freelance vive en bloques de tiempo fijos; no invade la Fase 0 de IDUNA.
+4. **Solo trabajo que se paga bien o que con organización no me quita tiempo.** Nada de servicios "cansones y mal pagados".
+5. **El freelance entrena a IDUNA.** Cada web y cada campaña Meta es práctica pagada de las armas que IDUNA usará en Q4.
 
 ---
 
-## 1. Servicios empaquetados (qué ofrezco y a qué precio)
+## 1. Decisiones de posicionamiento (lo que SÍ y lo que NO)
 
-Vendo **paquetes con resultado claro**, no horas sueltas. El cliente entiende qué recibe y cuánto paga. Precios en USD (mercado Maracaibo/VE dolarizado); son **rangos de partida**: ajustar según alcance y al cerrar 2–3 clientes.
-
-### A. Diseño (entrada rápida, genera caja ya)
-| Paquete | Qué incluye | Precio sugerido |
+| Decisión | Detalle | Por qué |
 |---|---|---|
-| **Identidad express** | Logo + paleta + tipografías + mini guía de uso (1–2 propuestas) | $90 – $200 |
-| **Pack de contenido (10 artes)** | 10 piezas para feed/historias, plantillas editables | $60 – $120 |
-| **Pack de contenido (20 artes)** | 20 piezas + 4 plantillas reutilizables | $110 – $200 |
-| **Flyer / pieza suelta** | 1 arte (promoción, evento, menú) | $10 – $25 |
+| **Marca** | **tagbyteff** (fijo). Se archiva/redirige "tagcreativo". | Una sola marca = fin de la dispersión. Marca personal flexible que crece conmigo. |
+| **Ángulo** | "Infraestructura digital · estratega con visión de ingeniería." | No soy diseñadora pura: **construyo el sistema que vende** (web + catálogo + WhatsApp + orden). Es mi ventaja injusta. |
+| **Oferta héroe** | **Web catálogo con carrito → pedido por WhatsApp** (+ páginas informativas). | Es lo que el mercado local pide, lo que disfruto y domino, y NO es manejo de redes. |
+| **Nicho** | **Moda y joyería** (y emprendimientos de producto). | Mi mejor caso es NapNam (joyería, +344% alcance). Evito salud y supermercados. |
+| **DESCARTO** | **Manejo de redes mensual** (calendario de contenido recurrente). | No me gusta, es cansón, lo pagan mal y siempre lo regatean. |
+| **DESCARTO** | **Shopify.** | No quiero trabajar con esa plataforma. |
+| **Limito** | Canva solo para piezas/manuales, no como motor de webs serias. | Canva web es limitado para catálogo + carrito. |
 
-### B. Manejo de redes (ingreso recurrente = mi base estable)
-| Paquete | Qué incluye | Precio mensual |
-|---|---|---|
-| **Starter** | 8 posts/mes + 8 historias + copy + 1 reunión | $80 – $150 |
-| **Pro** | 12–16 posts + historias diarias + 2 reels (edición simple) + reporte mensual | $150 – $300 |
-| **Pro + Ads** | Pro + gestión de Meta Ads (ver C) | $250 – $450 + pauta |
+> Nota: **Meta Ads SÍ se mantiene** — es un servicio puntual, técnico y medible (no es "manejo de redes"). Se cobra por proyecto + la pauta la paga el cliente.
 
-> El recurrente es el corazón del ingreso: 3–4 clientes "Starter/Pro" = piso mensual predecible.
+---
 
-### C. Meta Ads (mi diferenciador técnico)
+## 2. Stack técnico definitivo (web con IA, sin Shopify)
+
+**Stack de producción único: WordPress + WooCommerce + plugin de pedido por WhatsApp.**
+Un solo stack cubre los DOS productos (informativa y catálogo) con la habilidad que ya tengo (WooCommerce, localWP, integración WhatsApp).
+
+| Necesidad | Herramienta |
+|---|---|
+| Páginas informativas | WordPress + constructor **ligero** (Kadence/Blocksy + Gutenberg, o Bricks si quiero más control de ingeniera) |
+| Catálogo + carrito a WhatsApp | WordPress + **WooCommerce** + plugin de pedido por WhatsApp (envía el carrito completo a WhatsApp, sin pasarela de pago) |
+| Plugins de pedido por WhatsApp (gratuitos para arrancar) | "Order on Mobile for WooCommerce", "OneClick Chat to Order" |
+| Hosting económico | Hostinger u otro hosting accesible (lo paga el cliente como parte del proyecto) |
+
+### Por qué este stack y no "templates complicados" otra vez
+El problema pasado fue usar themes pesados/multipropósito. La regla nueva:
+- **Base mínima**: 1 theme ligero + pocos plugins (los justos) + un checklist documentado.
+- **Construyo UNA base limpia reutilizable** (mi "plantilla" bien hecha): la armo bien una vez y cada cliente nuevo es *personalizar*, no empezar de cero → más $/hora.
+- Cobro **mantenimiento/hosting** como servicio aparte → evita que el cliente rompa el sitio y me da recurrente de bajo esfuerzo.
+
+### Dónde entra la IA (mi acelerador, no mi reemplazo)
+- **Ideas/identidad**: IA (ChatGPT/Claude + generadores de imagen tipo Midjourney/Ideogram) para moodboards y conceptos → yo remato en **Illustrator** (y de paso aprendo).
+- **Copy**: IA redacta los textos de la web en la voz del cliente; yo edito.
+- **Build**: borrador inicial de secciones con IA (o 10Web AI sobre WordPress); como ingeniera, uso IA para snippets de CSS/PHP limpios en vez de pelear con themes inflados.
+- **Imágenes**: generación/mejora de fotos de producto y lifestyle con IA.
+
+---
+
+## 3. Servicios empaquetados + precios (sin redes, sin Shopify)
+
+Precios de **arranque** en USD (Maracaibo). Subir tras cerrar 2–3 casos. Mis mínimos previos sirven de piso ($220 página, $150 manual, $90 Ads).
+
+### A. Webs (oferta principal)
 | Paquete | Qué incluye | Precio |
 |---|---|---|
-| **Setup de campaña** | Configuración de cuenta/píxel, 1 campaña, 2–3 públicos, creativos base | $80 – $180 (una vez) |
-| **Gestión mensual** | Optimización, A/B de creativos, reporte de CAC/ROAS | $120 – $300/mes **+ pauta aparte** |
+| **Landing informativa (1 pág.)** | Página de presentación/venta, responsive, botón WhatsApp, formulario | $180 – $300 |
+| **Web informativa (3–5 págs.)** | Inicio, servicios/nosotros, contacto, SEO básico | $300 – $500 |
+| **Catálogo + carrito a WhatsApp** ⭐ | Catálogo de productos (hasta ~30), carrito que envía el pedido a WhatsApp, responsive | $350 – $600 |
+| **Catálogo grande / con variantes** | +30 productos, categorías, variantes, filtros | $600 – $900 |
+| **Mantenimiento web** (recurrente cómodo) | Cambios menores, respaldos, actualizaciones, soporte | $20 – $40/mes |
 
-> Regla: la **pauta (presupuesto publicitario) la paga el cliente directo**, nunca sale de mi bolsillo. Yo cobro la gestión.
-
-### D. Páginas web (mayor ticket, menos frecuencia)
+### B. Identidad (upsell natural de la web)
 | Paquete | Qué incluye | Precio |
 |---|---|---|
-| **Landing 1 página** | Página de venta/captura, responsive, link en bio, formulario/WhatsApp | $150 – $350 |
-| **Web catálogo (3–5 págs.)** | Inicio, productos/servicios, contacto, SEO básico | $300 – $700 |
-| **Mantenimiento web** | Cambios menores + soporte | $20 – $50/mes |
+| **Mini identidad** | Logo + paleta + tipografías + mini guía | $150 – $250 |
+| **Manual de identidad** | Identidad completa + usos + (opcional) personaje de marca | $250 – $400 |
 
-### Combos ancla (lo que más cierra en negocios locales)
-- **Combo Arranque Digital:** Identidad express + Landing + Setup Ads → $300 – $600.
-- **Combo Presencia Mensual:** Manejo de redes Pro + Gestión Ads → $250 – $450/mes + pauta.
+### C. Meta Ads (proyecto puntual, medible)
+| Paquete | Qué incluye | Precio |
+|---|---|---|
+| **Setup de campaña** | Cuenta/píxel, 1 campaña, 2–3 públicos, creativos base, medición CAC/ROAS | $90 – $180 (una vez) **+ pauta del cliente** |
 
-**Condiciones (decir desde el principio):**
-- **50% de anticipo** para empezar, 50% contra entrega (en recurrentes: por adelantado cada mes).
-- Cobro en USD (efectivo/Zelle/Binance/PagoMóvil al cambio, según cliente).
-- 2 rondas de cambios incluidas; cambios extra se cotizan.
+### Combos ancla (lo que más cierra)
+- **Combo Marca + Web:** Mini identidad + Catálogo WhatsApp → **$500 – $900**.
+- **Combo Lanzamiento:** Landing + Setup Meta Ads → **$280 – $480** + pauta.
 
----
-
-## 2. A qué clientes apuntar (cliente ideal + dónde están)
-
-**Mi cliente ideal (ICP):** negocio local de Maracaibo que **ya vende pero no sabe marketear ni conectar**. Mi propio análisis de competencia lo confirma: hay marcas con producto y audiencia (ej. tipo Vanity) que pierden ventas por mal marketing. Ese hueco es mi mina freelance.
-
-### Señales de buen cliente
-- Tiene Instagram pero feed descuidado / sin identidad / responde lento.
-- Vende un producto o servicio con margen (puede pagar marketing).
-- No tiene página web o tiene un link roto.
-- El dueño hace TODO y no tiene tiempo para redes.
-
-### Nichos prioritarios en Maracaibo (calientes y con presupuesto)
-1. **Estética y belleza** — cabinas, spa, uñas, lashes, depilación, barberías. *(Conozco el sector por IDUNA → hablo su idioma.)*
-2. **Salud y bienestar** — odontólogos, nutricionistas, fisioterapia, gym/entrenadores.
-3. **Comida** — restaurantes, dark kitchens, reposterías, cafés.
-4. **Retail/boutiques** — ropa, accesorios, calzado, decoración.
-5. **Servicios profesionales** — inmobiliarias, abogados, contadores, clínicas veterinarias.
-
-### Mis 3 fuentes de prospectos (de más fácil a más frío)
-1. **Red cálida (empezar AQUÍ):** familia, amigos, ex-compañeros, contactos de la cabina de mamá, conocidos con negocio. Conversión más alta y rápida.
-2. **Negocios que ya sigo / veo en IG local:** hacer lista de 30–50 cuentas locales con marketing flojo.
-3. **Referidos:** al cerrar/entregar, pedir SIEMPRE: *"¿conoces a alguien más que necesite esto?"* (1 referido por cliente feliz).
-
-**Acción:** armar una **lista de 30 prospectos** (nombre, rubro, @IG, contacto, nivel cálido/frío, servicio que le ofrezco). Esa lista es el combustible de la semana 1.
+**Condiciones:** 50% anticipo / 50% contra entrega · hosting y dominio aparte (los paga el cliente) · 2 rondas de cambios incluidas · cobro en USD (Zelle/Binance/efectivo/PagoMóvil al cambio).
 
 ---
 
-## 3. Mensajes de prospección (plantillas listas para copiar)
+## 4. Cómo conseguir clientes (sin volverme creadora de contenido)
 
-> Reglas: personalizar SIEMPRE la primera línea (que vea que no es copy-paste), hablar de **su problema/resultado** (no de mí), 1 solo llamado a la acción, mensajes cortos.
+**Meta primeros 30 días:** 2–3 proyectos cerrados (al menos 1 catálogo WhatsApp) = caja + casos nuevos.
 
-### 3.1 DM/WhatsApp a contacto CÁLIDO (conocido)
-```
-¡Hola [nombre]! ¿Cómo va [el negocio/la marca]? 🙌
-Estoy tomando proyectos de diseño y manejo de redes + publicidad
-en Meta para negocios de Maracaibo, y me acordé de [su negocio].
-¿Te muestro 2–3 ideas rápidas de cómo le sacaría más clientes a tu
-Instagram? Sin compromiso, y si te sirve hablamos de números.
-```
+### Fuentes (de más fácil a más fría)
+1. **Red cálida:** familia, amigos, ex-compañeros de la Urdaneta, conocidos con emprendimiento de moda/joyería. Mayor conversión.
+2. **Negocios de moda/joyería en IG local:** lista de 30–40 cuentas con web inexistente o link roto.
+3. **Referidos:** pedir SIEMPRE 1 referido + testimonio al entregar.
+4. **Plataformas freelance** (opcional, ingreso extra): Workana / Freelancer en español para "página web catálogo".
 
-### 3.2 DM FRÍO a negocio local (IG)
+### Prospección (es ventas, no manejo de redes)
+- **5 mensajes/día** a la lista. Enfoque: ofrecer una **web/catálogo**, no "llevarte las redes".
+- Mensaje tipo (DM/WhatsApp):
 ```
-Hola [nombre del negocio] 👋 Me encanta lo que hacen con [producto/
-servicio específico]. Vi que su Instagram tiene buen potencial pero
-[observación honesta: poca constancia / sin promociones / sin web].
-Soy diseñadora y manejo redes + Meta Ads aquí en Maracaibo. Les
-preparo una propuesta corta de qué mejoraría y cuánto costaría,
-¿les interesa que se las pase por aquí?
+Hola [negocio] 👋 Me encanta lo que hacen con [producto]. Vi que aún
+no tienen web (o el link no funciona). Hago catálogos online con carrito
+que manda el pedido directo a tu WhatsApp — ideal para vender sin perder
+clientes en el DM. ¿Te paso un ejemplo y el precio?
 ```
-
-### 3.3 Mensaje de VALOR primero (el que más cierra)
-> En vez de pedir, regala una idea concreta. Genera reciprocidad.
-```
-Hola [nombre] 👋 Le eché un ojo a su cuenta y se me ocurrieron 3
-cosas que les subirían las ventas por DM: (1) [idea de bio/link],
-(2) [idea de contenido], (3) [idea de promo/ad]. Se las dejo gratis 🙂
-Si quieren, yo se las implemento. ¿Les comparto cómo trabajo?
-```
-
-### 3.4 SEGUIMIENTO (a las 48–72 h, si no responden)
-```
-¡Hola [nombre]! Te escribo por si se te traspapeló mi mensaje 🙂
-Sigo con cupo esta semana para [servicio]. ¿Lo vemos o prefieres
-que te escriba más adelante? Cualquier opción está bien 👍
-```
-
-### 3.5 Cierre cuando muestran interés
-```
-¡Perfecto! Para arrancar te paso el paquete [X] que es el que más
-te encaja: incluye [entregables], en [tiempo de entrega], por [precio].
-Empezamos con 50% de anticipo y arranco hoy mismo. ¿Te reservo el cupo?
-```
+- Seguimiento a las 48–72 h si no responden.
 
 ---
 
-## 4. Mini pitch + portafolio
+## 5. Instagram y contenido (mínimo esfuerzo, máxima prueba)
 
-### 4.1 One-liner (mi presentación en 1 frase)
-> *"Ayudo a negocios de Maracaibo a vender más por Instagram con diseño que conecta, redes constantes y publicidad en Meta que sí mide resultados."*
+No me gustan las redes → **mi IG es un portafolio, no una máquina de contenido.** Estrategia de bajo esfuerzo:
 
-### 4.2 Pitch de 30 segundos (para audio/llamada/reunión)
-> "Soy diseñadora y estratega de redes. Lo que hago es simple: tomo tu
-> Instagram (o tu negocio sin web) y lo convierto en algo que de verdad
-> atrae clientes — identidad clara, contenido constante y, si quieres,
-> publicidad en Meta que medimos para saber cuánto te cuesta cada cliente.
-> No vendo humo: te digo qué necesitas y qué no. ¿Te muestro un ejemplo?"
+- **Cadencia realista:** 1 publicación/semana (no diaria). Calidad > cantidad.
+- **Tipo de contenido = PRUEBA, no tips genéricos:**
+  1. **Casos antes/después** (NapNam, Momo, IDUNA, demos nuevos). Es lo que vende.
+  2. **Web terminada** (video corto navegando el catálogo + carrito a WhatsApp).
+  3. **Mi ángulo de ingeniera:** 1 post ocasional explicando algo medible (ej. "cómo un catálogo bien hecho baja tu tiempo de respuesta").
+- **Bio:** ya está fuerte. Asegurar link a mi **landing-portafolio** (que es a la vez demo de mi servicio).
+- **¿Otra red?** No abrir 3 frentes. IG como vitrina + **WhatsApp Business** como canal de cierre. LinkedIn opcional y de bajo esfuerzo (1 post/mes) para el ángulo B2B/ingeniería. Nada de TikTok diario.
 
-### 4.3 Estructura del mini portafolio (1 PDF o carrusel de IG — armar en 1 día)
-1. **Portada:** nombre + one-liner + foto/logo personal.
-2. **Qué hago:** los 4 servicios con íconos (diseño · redes · Meta Ads · web).
-3. **Antes / Después:** 2–3 ejemplos visuales (rediseño de feed, una landing, un arte).
-   - *Si aún no tengo clientes:* hago **2–3 proyectos "spec"/demo** (rediseño una marca local ficticia o real con permiso, una landing de ejemplo). Sirven igual para mostrar.
-   - **IDUNA cuenta:** la identidad visual de IDUNA (logo, sistema de color, bio de IG) es portafolio real propio → mostrarla.
-4. **Cómo trabajo:** pasos (diagnóstico → propuesta → ejecución → reporte) + condiciones (anticipo).
-5. **Paquetes y rangos de precio.**
-6. **Contacto + llamado a la acción:** "Escríbeme y te armo una propuesta hoy."
-
-> Plataformas para mostrarlo: un **carrusel fijado en mi IG**, un **PDF por WhatsApp**, o una **landing-portafolio** (que me sirve de demo de mi propio servicio web).
+> Regla anti-dispersión: el contenido NO es el negocio; los proyectos son el negocio. El IG solo da credibilidad.
 
 ---
 
-## 5. Plan de acción para conseguir los primeros clientes YA
+## 6. Mi propia web + campaña Meta (usar mi producto para venderme)
 
-**Meta de los primeros 30 días:** cerrar **2–3 clientes** (mínimo 1 recurrente de redes) = piso de caja mensual. Dedicación realista: ~2–3 h/día sin canibalizar IDUNA.
-
-### Semana 1 — Munición (preparar para vender)
-- [ ] Definir mis 4 paquetes y precios finales (usar tabla de la sección 1).
-- [ ] Armar el **mini portafolio** (carrusel/PDF) con IDUNA + 2 demos spec.
-- [ ] Limpiar mi bio de IG/WhatsApp Business como freelancer (one-liner + servicios).
-- [ ] Hacer la **lista de 30 prospectos** (10 cálidos + 20 fríos).
-
-### Semana 2 — Ofensiva cálida (lo más rentable primero)
-- [ ] Escribir a los **10 contactos cálidos** (plantilla 3.1). Meta: 3–5 conversaciones.
-- [ ] Ofrecer un **proyecto ancla con precio de arranque** a 1–2 cercanos (caso de estudio + testimonio).
-- [ ] Publicar 1 post "abrí cupos para proyectos" en mi IG personal.
-
-### Semana 3 — Ofensiva fría + valor
-- [ ] **5 DMs fríos/día** a la lista (plantillas 3.2 / 3.3). Meta: 25 contactos en la semana.
-- [ ] Hacer seguimiento (3.4) a todo el que no respondió de la semana 2.
-- [ ] Cerrar al menos **1 cliente** y cobrar anticipo.
-
-### Semana 4 — Cerrar y pedir referidos
-- [ ] Entregar primer(os) proyecto(s) impecables.
-- [ ] Pedir **testimonio + 1 referido** a cada cliente feliz.
-- [ ] Convertir a 1 cliente puntual en **recurrente** (ofrecer paquete mensual de redes).
-- [ ] Revisar números y reajustar precios al alza si la demanda responde.
-
-### Ritmo sostenible (a partir del mes 2)
-- **5 contactos nuevos al día** (mezcla cálido/frío) = ~100/mes.
-- **1 pieza de contenido propio/semana** mostrando trabajo (atrae inbound).
-- Pedir referido en cada entrega.
+Secuencia concreta (es también mi mejor demo):
+1. **Construir mi landing-portafolio tagbyteff** con el stack definitivo (WordPress) → doble función: portafolio + demo vivo del servicio web.
+2. Incluir: casos, paquetes, "cómo trabajo", botón WhatsApp.
+3. **Campaña Meta Ads pequeña** apuntando a dueñas/os de moda y joyería en Maracaibo, llevando tráfico a esa landing.
+4. Medir CAC (cuánto me cuesta un prospecto) → es mi propio caso de estudio para vender Ads a clientes.
 
 ---
 
-## 6. Tracker simple (medir para no improvisar)
+## 7. Plan de acción — primeras 4 semanas
 
-Llevar una tablita (Notion/Sheets) con estas columnas:
+### Semana 1 — Base y munición
+- [ ] Cerrar marca: tagbyteff fijo; archivar/redirigir tagcreativo.
+- [ ] Definir los 4 paquetes y precios finales (sección 3).
+- [ ] Montar la **base WordPress limpia reutilizable** (theme ligero + WooCommerce + plugin WhatsApp) = mi plantilla bien hecha.
+- [ ] Lista de 30 prospectos de moda/joyería (cálidos + fríos).
 
-| Prospecto | Rubro | @/Contacto | Cálido/Frío | Servicio ofrecido | Estado | Próximo paso | Fecha |
+### Semana 2 — Demo + red cálida
+- [ ] Construir mi **landing-portafolio tagbyteff** (demo vivo).
+- [ ] Hacer 1 demo de **catálogo + carrito WhatsApp** (marca real con permiso o ficticia).
+- [ ] Escribir a los contactos cálidos. Meta: 3–5 conversaciones.
+
+### Semana 3 — Ofensiva fría + Ads
+- [ ] 5 DMs/día a la lista (mensaje sección 4).
+- [ ] Lanzar campaña Meta pequeña hacia mi landing.
+- [ ] Cerrar al menos 1 proyecto y cobrar anticipo.
+
+### Semana 4 — Entregar y multiplicar
+- [ ] Entregar impecable; pedir testimonio + 1 referido.
+- [ ] Ofrecer mantenimiento web (recurrente cómodo) al cliente entregado.
+- [ ] 1 post de caso en IG. Revisar números y subir precios si la demanda responde.
+
+---
+
+## 8. Tracker (medir, no improvisar)
+
+| Prospecto | Rubro | @/Contacto | Cálido/Frío | Servicio | Estado | Próximo paso | Fecha |
 |---|---|---|---|---|---|---|---|
 
 **Estados:** `Por contactar` → `Contactado` → `Conversando` → `Propuesta enviada` → `Cerrado` / `No` / `Seguir luego`.
 
-**KPIs semanales (mirar cada viernes):**
-- Nº de contactos nuevos enviados.
-- Nº de conversaciones abiertas.
-- Nº de propuestas enviadas.
-- Nº de clientes cerrados + $ cobrado.
-- Tasa de cierre (cerrados ÷ propuestas) → me dice si el precio/pitch funciona.
+**KPIs semanales:** contactos enviados · conversaciones · propuestas · cerrados + $ cobrado · tasa de cierre.
 
 ---
 
-## 7. Cómo se conecta esto con IDUNA (sin mezclar plata)
+## 9. Conexión con IDUNA (sin mezclar plata)
 
-| Frente | Beneficio cruzado |
+| Frente freelance | Beneficio para IDUNA |
 |---|---|
-| Meta Ads de clientes | Practico con dinero ajeno las campañas que IDUNA usará en Q4 |
-| Diseño/redes de clientes | Afilo la mano para el contenido educativo de @by.iduna |
-| Webs/landings | Aprendo a montar la futura tienda web de IDUNA (Fase 2) |
-| Caja personal | Me da runway para no presionar el capital de IDUNA |
+| Catálogo + WhatsApp en WordPress | Aprendo a montar la futura tienda web de IDUNA (Fase 2) |
+| Meta Ads de clientes | Practico con dinero ajeno las campañas de Q4 |
+| Identidad/diseño | Afilo la mano para el contenido de marca de IDUNA |
+| Caja personal | Runway que evita presionar el capital de IDUNA |
 
-> **Línea roja:** las finanzas se reportan por separado. El freelance es mío; IDUNA es de IDUNA. Esto resuelve directamente el riesgo "capital limitado + sin runway personal" del plan de negocio, sin caer en el riesgo de "dispersión" (porque está time-boxed).
+> **Línea roja:** finanzas separadas. tagbyteff es mío; IDUNA es de IDUNA. La marca IDUNA no se usa para servicios de terceros.
 
 ---
 
-## 8. Pendientes / decisiones
+## 10. Pendientes / decisiones
 
-- [ ] Fijar precios finales tras testear con 2–3 clientes.
-- [ ] Decidir cuántas horas/días a la semana le dedico (proteger el tiempo de Fase 0 de IDUNA).
-- [ ] Crear la landing-portafolio propia (doble función: portafolio + demo de servicio web).
-- [ ] Definir bajo qué nombre/marca personal trabajo el freelance (mi nombre vs. marca aparte) — NO usar la marca IDUNA para servicios de terceros.
+- [ ] Elegir constructor ligero definitivo (Kadence/Blocksy vs Bricks) y plugin WhatsApp final.
+- [ ] Fijar precios definitivos tras 2–3 casos.
+- [ ] Definir horas/días semanales del freelance (proteger Fase 0 de IDUNA).
+- [ ] Publicar landing-portafolio tagbyteff.
