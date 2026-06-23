@@ -54,6 +54,7 @@ Este repositorio es la **fuente de verdad** del proyecto. Todos los chats de tra
 - `sistema-compra-alibaba.md` — Búsqueda, evaluación y costeo de proveedores (lista de búsqueda, filtros, preguntas, costo de aterrizaje).
 - `estado-proveedores.md` — Estado por producto (gua sha, aparato galvánico, gel, cryo, empaque, micro-accesorios), decisiones, cantidades y **fecha tope de pedido**.
 - `sourcing-skincare-usa.md` — Ruta USA (skincare resellado + gel de aloe): plataformas, carrito, reglas de pago y recompensas.
+- `control-financiero-lote1.md` — Tabla de gastos del lote 1: cuánto pagar por proveedor, cuánto tener en cuenta y colchón restante.
 
 ---
 

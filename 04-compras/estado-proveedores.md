@@ -191,3 +191,48 @@ Cuenta regresiva (tránsito 70 días) desde "listo para vender ~1 nov":
 listo ~1 nov → llega a Maracaibo ~20 oct → zarpa del casillero ~11 ago → todo en casillero ~4 ago → **PEDIR antes de ~14-15 julio**.
 - **Tope sano: 15 de julio** (ideal: primera quincena de julio). **Límite absoluto: ~8 de agosto** (más tarde se pierde octubre y parte de noviembre).
 - **Cuello de botella = el proveedor más lento** (el casillero espera a TODOS para consolidar). Confirmar el lead time a casillero de cada uno (gua sha ~15 días; aparato y empaque: preguntar).
+
+
+
+---
+
+
+## 🔖 FICHA MAESTRA DEL LOTE 1 — Estado actual (jun 2026)
+
+> Estado consolidado y vigente. Reemplaza notas anteriores. Pago: TODO por **Trade Assurance**, desde la **cuenta de finanzas**, con recap de confirmación (regla de 2 cuentas).
+
+### Proveedores CONFIRMADOS (mercancía puesta en casillero China)
+| # | Proveedor | Link | Producto | Cant | Precio | Envío | TOTAL | Estado |
+|---|---|---|---|---|---|---|---|---|
+| 1 | **Easter** (13a, Verified, TA, 4.9) | easter.en.alibaba.com | Gua sha corazón 304, 80×50×5mm | 50 | $2.50 | $8 | **$133** | ✅ Listo. 1 herramienta/bolsa. Lead 7+3 días |
+| 2 | **Xiazhifeng** (9a, TA, 4.6) | esongsun.en.alibaba.com | Aparato facial **KY108** (galvánico ION+/−, frío/calor, LED, vibración) | 15 | $15.30 | $5 | **$234.50** | 🟡 Calidad OK (foto/video blanco). UN38.3+CE+RoHS entregados. Cerrar proforma + UN38.3 a Global |
+| 3 | **Yiwu Blue Stone** (14a, Verified, TA, 4.8) | blue-stone.en.alibaba.com | 50 sets (1 cintillo+2 muñequeras) + 50 espátulas silicona | — | $0.90 set / $0.60 esp | $8 | **$83** | 🟡 Elegir color + pedir lead time |
+| 4 | **Yuanjie** (13a, Verified, TA) | yuanjiecn.en.alibaba.com | Pouch faux suede gua sha 10×14 (100) + aparato 10×18 (20), logo 1 color | 120 | $0.47 / $0.68 + $25 molde | $8 | **$93.60** | 🟡 Elegir color charcoal + cordón. **SAPI: luz verde del abogado → se puede imprimir logo** |
+| 5 | **Jihong Ande** (3a, TA, no Verified) | jhadbag.en.alibaba.com | Estuche canvas crema 22×12×9 (30) + bolsas papel negro chica/grande (100) | — | $1.58 / $0.13 / $0.22 | ⚠️ unir en 1 envío | **~$70** | 🟡 Confirmar envío único, altura bolsa chica, colores, lead time |
+
+**SUBTOTAL MERCANCÍA confirmada: ~$614**
+
+### Papelería — EN EVALUACIÓN (4 proveedores cotizaron)
+Recomendado consolidar en **Yiwu Fuyou** (6a, Verified, TA — fuyoubaocai.en.alibaba.com): papel seda negro 150=$25 · stickers foil oro 500=$55 (o regular $30) · hang-tags charcoal+foil 50=$30 · frosted PE (pedir precio). **~$140-175 + envío.**
+- Otros: Baiyue (hang-tag caro $62), Kawa (completo $384 pero card MOQ 1000), Xiangnian (solo seda+stickers).
+- **Bolsas de compra NO van aquí** → ya con Jihong ($22.50). Tarjeta-QR → **local** (QR actualizable).
+
+### Decisiones clave
+- **Héroe = aparato GALVÁNICO KY108 (Xiazhifeng)** — recuperado tras confirmar calidad por foto/video de unidad blanca. (NO EMS.) Descartados: Baichang (sin ION/frío), KOSIBATE/JHPM (precio), Nove (más caro $22).
+- **Estuche = Jihong** (crema blank + hang-tag). **Pañuelo microfibra descartado** (Fase 2).
+- Color pouch: **charcoal + logo oro/crema + cordón oro**. Hang-tag: charcoal + foil oro + @by.iduna + tagline.
+- **SAPI: el abogado dio LUZ VERDE para usar el nombre/logo (™).** Ya se puede imprimir logo (pouch, stickers, hang-tags). Estuche y bolsas de compra siguen blank de fábrica (MOQ logo alto) → se marcan con sticker/hang-tag.
+- **Instagram: @by.iduna**
+
+### Reglas transversales
+- Pago **SOLO por Trade Assurance**, desde cuenta de finanzas, con recap.
+- **Tope de pedido ~15 julio** (barco 60-70 días → lanzar Nov-Dic). Cuello de botella = proveedor más lento.
+- Mandar **UN38.3 + MSDS a Global** antes de pagar el aparato (declarar UN3481 = batería dentro del equipo).
+
+### Pendientes inmediatos
+1. **Xiazhifeng:** cerrar proforma (modelo KY108, batería 1000 vs 1100mAh, UN3481, peso/CBM caja máster) + enviar UN38.3 a Global.
+2. **Elegir colores:** cintillo/espátula (Yiwu), pouch+cordón (Yuanjie), estuche+bolsas (Jihong).
+3. **Jihong:** confirmar envío único (no $6+$5), altura bolsa chica (9 o 19cm).
+4. **Cerrar papelería con Fuyou** (pedir precio frosted + envío; decidir sticker foil vs regular).
+5. **🚢 PEDIR FLETE A GLOBAL** (China→Maracaibo) — único número grande pendiente.
+6. Diseñar logo/sticker/hang-tag/tarjeta-QR (mockups en Gemini).
