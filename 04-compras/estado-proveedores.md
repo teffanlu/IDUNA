@@ -48,40 +48,16 @@ Producto pequeño/liviano aprox. +$7-10/u de costos. **Objetivo de margen del ap
 
 ---
 
-### 2. Aparato héroe — GALVÁNICO KY108 (Xiazhifeng) ✅ CONFIRMADO
+### 2. Aparato héroe — IDUNA LÚMEN ✅ CERRADO
 
-**Decisión final:** modelo **KY108 de Xiazhifeng** (galvánico/iónico multifunción: ION+/ION−, frío/calor, LED, vibración). Calidad confirmada por foto/video de unidad blanca. NO es EMS. Reposicionamiento honesto: absorción / glow / poros / calma (no "lifting"). EMS premium → Fase 2.
-
-> **Nota sobre el lanzamiento:** el galvánico es el héroe de MARGEN, pero el héroe del primer lanzamiento Q4 es el **Kit Ritual** (gua sha + skincare curado + método). El KY108 entra como **Kit Sistema Premium** una vez que mamá + Teffany lo dominen en mano (~sep/oct). Ver `decision-aparato-heroe-fase1.md`.
-
-**Proveedor:** Xiazhifeng Electronic (esongsun.en.alibaba.com) · 9 años · Verified · TA · 4.6/5
-
-**Cotización:** 15 uds × $15.30 + $5 envío = **$234.50 a casillero China**
-Aterrizado ~$23.50/u → precio de venta $69–89 → **margen 66–73%**
-
-**Specs confirmadas:** ION+/ION−, calor 35-45°C, frío 12-15°C, LED rojo/azul/verde, vibración 8000 RPM. Modos: G1 limpieza (calor+vibración), G2 nutrición (calor+rojo+vibración), G3 boost (frío+azul), G4 (vibración+verde). Batería 1000 mAh. Por unidad 17×8×5.3cm, 160g. Caja: gift box + dispositivo + manual + cable USB + hard case. Manual en inglés.
-
-**CBM:** 15 uds ≈ 0.012 CBM → muy por debajo del mínimo 0.15 → **obligatorio consolidar** con gua sha + accesorios + empaque.
-
-**Gates antes de pagar (aún pendientes):**
-- ✅ Calidad confirmada (foto/video unidad blanca)
-- ✅ UN38.3 entregado · ✅ CE/RoHS entregados
-- 🟡 Cerrar **proforma** (modelo KY108, batería 1000 vs 1100mAh, UN3481, peso/CBM caja máster)
-- 🟡 Enviar **UN38.3 + MSDS a Global** (declarar UN3481 = batería dentro del equipo)
-- 🟡 Confirmar **envío TERRESTRE local al casillero** (cotizaron aéreo, no sirve)
-- 🟡 Confirmar Trade Assurance en el pedido
-- 🟡 Fijar garantía en contrato TA (dicen 3 años, manual dice 1 año → exigir 1 año como mínimo por escrito)
-- 🟡 Negociar cláusula DOA: reembolso parcial vía TA (por defecto solo ofrecen reemplazo con nueva orden)
-
-**Claims a EVITAR** (baneo Meta + daño real + ética): "esteriliza hábitat bacteriano", "llega a la dermis", "destruye bacterias", "promueve colágeno", "activa células musculares", "drenaje linfático".
-
-**Descartados (historial):**
-| Proveedor | Razón |
-|---|---|
-| Baichang (BI46) | Confirmó SIN ION+/− y SIN frío → no es galvánico |
-| Nove (NV-IH01) | Descartado: más caro (~$22) y calidad inferior |
-| Nove (NV-LP01) | EMS + electroporación + calor, SIN frío → no aplica |
-| KOSIBATE / JHPM | Precio no competitivo |
+- **Proveedor: Shenzhen Xiazhifeng Electronic Co., Ltd.**
+- **Producto:** Cool and Hot Vibration Ionic Essence Infusion Face Beauty Device
+  (galvánico/iónico, multifunción: ION+/ION−, frío/calor, LED) → marca cara a cliente: **IDUNA LÚMEN**
+- **Cantidad:** 15 uds
+- **Precio Alibaba:** $15.30/u · subtotal $229.50 + $5 envío = $234.50 · processing $7.02
+- **Total pagado: $241.52** (30 Jun 2026)
+- **Costo de aterrizaje real (puesto en Maracaibo):** $24.04/u
+- Costo de aterrizaje = ($234.50 + flete prorrateado $119.14 + processing $7.02) / 15
 
 ---
 
@@ -183,17 +159,9 @@ Cuenta regresiva (tránsito 70 días) desde "listo para vender ~1 nov":
 
 ---
 
-## 🔴 Pendientes inmediatos (antes de pagar)
+## Pendientes activos
 
-1. **Xiazhifeng (KY108):** cerrar proforma (modelo KY108, batería 1000 vs 1100mAh, UN3481, peso/CBM caja máster). Negociar garantía 1 año + DOA en contrato TA.
-2. **Enviar a Global:** UN38.3 + MSDS del KY108. Confirmar que aceptan baterías de litio por mar y qué docs exigen.
-3. **Pedir flete a Global** (China → Maracaibo) con CBM estimado del consolidado. 🔴 ÚNICO NÚMERO GRANDE PENDIENTE.
-4. **Elegir colores:** cintillo/espátula (Yiwu Blue Stone) + pouch + cordón (Yuanjie).
-5. **Diseñar:** sticker, hang-tag y tarjeta-QR (mockups en Gemini). Coordinar con impresión local.
-6. **Costeo completo:** llenar tabla en `control-financiero-lote1.md` con flete/aduana reales → validar margen aparato >55%.
-7. **Skincare USA (ruta YesStyle/iHerb):** ejecutar DESPUÉS de que el pedido China esté en vía. Ver `sourcing-skincare-usa.md`.
-8. **Confirmar con abogado** clase del gel/skincare bajo marca IDUNA.
-
----
-
-> **Próxima actualización de este archivo:** cuando todos los pedidos estén colocados y la mercancía en el casillero. Se actualizarán estados, totales reales y se archivará la sección de candidatos del aparato.
+1. **Skincare ruta USA (YesStyle):** ejecutar ahora — pedido China ya en tránsito. Ver `sourcing-skincare-usa.md`.
+2. **Amazon herramientas:** consolidar con YesStyle en casillero Miami (Rudy). Confirmar costo Miami→Venezuela.
+3. **SAPI:** seguimiento del registro — libera branding definitivo.
+4. **Costo aterrizaje skincare:** recalcular cuando se confirme flete Miami→Venezuela.
