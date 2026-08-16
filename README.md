@@ -50,12 +50,6 @@ Este repositorio es la **fuente de verdad** del proyecto. Todos los chats de tra
 - `decision-aparato-heroe-fase1.md` — Decisión: el héroe del lanzamiento Q4 es el **ritual** (lo que la cabina domina); el galvánico entra como **upgrade condicional** a 4 compuertas, no como apuesta de timing.
 - `plan-freelance.md` — Plan de **caja personal a corto plazo** bajo la marca **tagbyteff** (Teffany freelance): foco en **diseño + webs** (catálogo con carrito a WhatsApp en WordPress/WooCommerce, sin Shopify; Meta Ads puntual). Descarta manejo de redes mensual. Incluye paquetes y precios, stack técnico con IA, nicho moda/joyería, prospección, contenido IG de bajo esfuerzo y plan de acción a 4 semanas. Caja separada del capital de IDUNA.
 
-### `04-compras/`
-- `sistema-compra-alibaba.md` — Búsqueda, evaluación y costeo de proveedores (lista de búsqueda, filtros, preguntas, costo de aterrizaje).
-- `estado-proveedores.md` — Estado por producto (gua sha, aparato galvánico, gel, cryo, empaque, micro-accesorios), decisiones, cantidades y **fecha tope de pedido**.
-- `sourcing-skincare-usa.md` — Ruta USA (skincare resellado + gel de aloe): plataformas, carrito, reglas de pago y recompensas.
-- `control-financiero-lote1.md` — Tabla de gastos del lote 1: cuánto pagar por proveedor, cuánto tener en cuenta y colchón restante.
-
 ---
 
 ## Identidad rápida
