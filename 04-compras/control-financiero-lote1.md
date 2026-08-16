@@ -25,7 +25,6 @@
 | Branding local (stickers adicionales, impresión) | ~$50–100 | después |
 
 ## 💰 Resumen
-## 💰 Resumen
 
 | | Monto |
 |---|---|
